@@ -1,0 +1,18 @@
+[
+    {
+      "id": 1,
+      "title": "Sample Title 1",
+      "body": "Sample body text 1"
+    },
+    {
+      "id": 2,
+      "title": "Sample Title 2",
+      "body": "Sample body text 2"
+    },
+    {
+      "id": 3,
+      "title": "Another Title",
+      "body": "Another body text"
+    }
+  ]
+  

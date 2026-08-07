@@ -1,0 +1,944 @@
+{
+  "products": [
+    {
+      "slug": "wild-catch",
+      "hero": {
+        "title": "Wild Catch",
+        "description": "Experience fully transparent, quota‑compliant seafood straight from the ocean. Follow each catch from vessel to your plate in real time.",
+        "cta": {
+          "text": "Trace Your Catch",
+          "target": "/contact"
+        },
+        "image": "wild_catch.png"
+      },
+      "features": [
+        {
+          "icon": "Shield",
+          "title": "Live Vessel Tracking",
+          "desc": "View GPS routes and trip data for each fishing vessel as it operates."
+        },
+        {
+          "icon": "Cloud",
+          "title": "Instant Catch Logging",
+          "desc": "Every haul is recorded and time‑stamped the moment it’s onboarded."
+        },
+        {
+          "icon": "Rocket",
+          "title": "Automated Compliance",
+          "desc": "Catch limits and species quotas enforced automatically on capture."
+        }
+      ],
+      "valueProps": [
+        {
+          "icon": "Brain",
+          "title": "Empowered Communities",
+          "desc": "Local fishers receive fair prices through transparent quota management."
+        },
+        {
+          "icon": "Cloud",
+          "title": "Buyer Confidence",
+          "desc": "Access digital certificates that prove origin, date, and method of catch."
+        }
+      ],
+      "techSpecs": [
+        {
+          "title": "Telemetry & Monitoring",
+          "items": [
+            "Real‑time GPS vessel telemetry",
+            "Automated catch volume measurements",
+            "Live compliance alerts"
+          ]
+        },
+        {
+          "title": "Digital Landing Logs",
+          "items": [
+            "Geo‑tagged catch receipts",
+            "Species and weight verification",
+            "Instant digital certification"
+          ]
+        }
+      ],
+      "success": [
+        {
+          "title": "Coastal Cooperative",
+          "desc": "Saw an 18% price boost after enabling traceability for buyers."
+        },
+        {
+          "title": "Global Exporter",
+          "desc": "Reduced customs delays by 48 hours with real‑time digital docs."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "How do I scan and view catch details?",
+          "a": "Use the QR code on your invoice or packaging to pull up live catch data."
+        },
+        {
+          "q": "What ensures sustainable quotas?",
+          "a": "Automated alerts prevent vessels from exceeding scientifically set limits."
+        }
+      ],
+      "comparisonColumns": [
+        "Metric",
+        "Aazhimin Wild Catch",
+        "Traditional Supply"
+      ],
+      "comparisons": [
+        ["Origin Verification", "Instant blockchain record", "Paper logbooks"],
+        ["Sustainability Controls", "Real‑time quota enforcement", "Manual checks"],
+        ["Data Access", "On‑demand via QR scan", "Offline & delayed"],
+        ["Price Transparency", "Live market pricing", "Variable, opaque"]
+      ],
+      "partners": [
+        "cooperative.png",
+        "exporter.png"
+      ]
+    },
+    {
+      "slug": "mariculture",
+      "hero": {
+        "title": "Smart Mariculture",
+        "description": "Optimized aquaculture with real‑time monitoring of water quality, feed, and growth metrics—ensuring healthy, consistent harvests every cycle.",
+        "cta": {
+          "text": "View Farm Dashboard",
+          "target": "/contact"
+        },
+        "image": "mariculture.png"
+      },
+      "features": [
+        {
+          "icon": "Cloud",
+          "title": "Live Water Analytics",
+          "desc": "Continuous IoT sensing of salinity, temperature, pH, and dissolved oxygen."
+        },
+        {
+          "icon": "Shield",
+          "title": "Automated Feeding",
+          "desc": "AI‑driven feed schedules that maximize growth and minimize waste."
+        },
+        {
+          "icon": "Rocket",
+          "title": "Batch Traceability",
+          "desc": "Every harvest batch tagged with time‑stamped growth and health data."
+        }
+      ],
+      "valueProps": [
+        {
+          "icon": "Brain",
+          "title": "Yield Consistency",
+          "desc": "Predictable production cycles reduce downtime and boost ROI."
+        },
+        {
+          "icon": "Cloud",
+          "title": "Regulatory Ready",
+          "desc": "Automated compliance reports for environmental and safety standards."
+        }
+      ],
+      "techSpecs": [
+        {
+          "title": "IoT & Automation",
+          "items": [
+            "Edge AI controllers on each pen",
+            "Automated sensor calibration",
+            "Cloud‑synced telemetry"
+          ]
+        },
+        {
+          "title": "Farm Operations",
+          "items": [
+            "Remote pen monitoring",
+            "Automated harvest scheduling",
+            "Digital feed and health logs"
+          ]
+        }
+      ],
+      "success": [
+        {
+          "title": "Shrimp Farm Collective",
+          "desc": "Boosted survival rates from 75% to 92% using predictive feeding algorithms."
+        },
+        {
+          "title": "Seabass Exporter",
+          "desc": "Entered new markets with digital compliance reports, reducing audit time by 60%."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "How is water quality maintained?",
+          "a": "Sensors trigger aeration and filtration systems automatically when thresholds are breached."
+        },
+        {
+          "q": "Can I view farm performance remotely?",
+          "a": "Yes—access live dashboards via secure cloud portal or mobile app."
+        }
+      ],
+      "comparisonColumns": [
+        "Metric",
+        "Aazhimin Mariculture",
+        "Traditional Farms"
+      ],
+      "comparisons": [
+        ["Water Quality Control", "Automated real‑time", "Periodic manual checks"],
+        ["Feed Efficiency", "AI‑optimized", "Scheduled bulk feeding"],
+        ["Compliance Reporting", "Instant digital", "Paper‑based records"],
+        ["Harvest Predictability", "Algorithmic forecasts", "Experience‑based"]
+      ],
+      "partners": [
+        "shrimp-farm.png",
+        "seabass-exporter.png"
+      ]
+    },
+    {
+      "slug": "shellfish",
+      "hero": {
+        "title": "Traceable Shellfish",
+        "description": "Crabs, lobsters, and mollusks harvested under fully transparent, sustainable protocols—tracked from bed to buyer.",
+        "cta": {
+          "text": "Explore Shellfish Trace",
+          "target": "/contact"
+        },
+        "image": "shellfish.png"
+      },
+      "features": [
+        {
+          "icon": "Shield",
+          "title": "Habitat Monitoring",
+          "desc": "Environmental sensors ensure sustainable harvesting zones and conditions."
+        },
+        {
+          "icon": "Cloud",
+          "title": "Batch QR Tags",
+          "desc": "Each catch lot carries a scannable QR code linking to vessel, zone, and quota data."
+        },
+        {
+          "icon": "Rocket",
+          "title": "Live Tank Logistics",
+          "desc": "Temperature‑controlled transport with real‑time health and stress monitoring."
+        }
+      ],
+      "valueProps": [
+        {
+          "icon": "Brain",
+          "title": "Quality Assurance",
+          "desc": "Batch-by-batch lab testing for contaminants, trace metals, and freshness markers."
+        },
+        {
+          "icon": "Cloud",
+          "title": "Regulatory Compliance",
+          "desc": "Automated catch reporting aligns with national and international shellfish standards."
+        }
+      ],
+      "techSpecs": [
+        {
+          "title": "Traceability Tech",
+          "items": [
+            "QR‑linked catch manifests",
+            "Geo‑fenced harvesting zones",
+            "Digital eco‑certification stamps"
+          ]
+        },
+        {
+          "title": "Transport & Storage",
+          "items": [
+            "Live‑tank telemetry",
+            "Automated salinity and temperature control",
+            "Blockchain‑secured logs"
+          ]
+        }
+      ],
+      "success": [
+        {
+          "title": "Lobster Co‑op",
+          "desc": "Increased export market access by 30% through certified trace documentation."
+        },
+        {
+          "title": "Mollusk Exporter",
+          "desc": "Reduced spoilage rates by 25% using live‑tank health analytics."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "How fresh is the shellfish on delivery?",
+          "a": "Live‑tank monitoring ensures optimal conditions, guaranteeing peak freshness upon arrival."
+        },
+        {
+          "q": "Are harvest areas certified sustainable?",
+          "a": "Yes—only shellfish beds with active eco‑certification are approved for Aazhimin sourcing."
+        }
+      ],
+      "comparisonColumns": [
+        "Metric",
+        "Aazhimin Shellfish",
+        "Traditional Supply"
+      ],
+      "comparisons": [
+        ["Origin Verification", "Scannable QR + blockchain", "Manual logs"],
+        ["Transport Conditions", "Live telemetry", "Static cold chain"],
+        ["Eco‑Certification", "Automated digital", "Periodic inspections"],
+        ["Quality Consistency", "Data‑driven", "Variable"]
+      ],
+      "partners": [
+        "lobster-coop.png",
+        "mollusk-exporter.png"
+      ]
+    },
+    {
+      "slug": "speciality-marine-foods",
+      "hero": {
+        "title": "Specialty Marine Foods",
+        "description": "Pickled, fermented, and gourmet seafood delicacies crafted for discerning global markets with full traceability.",
+        "cta": {
+          "text": "Discover Delicacies",
+          "target": "/shop/b2c"
+        },
+        "image": "speciality_marine_foods.png"
+      },
+      "features": [
+        {
+          "icon": "Shield",
+          "title": "Artisanal Processes",
+          "desc": "Traditional pickling and fermentation methods combined with digital QC checkpoints."
+        },
+        {
+          "icon": "Cloud",
+          "title": "Batch Transparency",
+          "desc": "Every jar and tin includes a QR code linking to harvest, recipe, and expiry data."
+        },
+        {
+          "icon": "Rocket",
+          "title": "Global Compliance",
+          "desc": "Packaged to meet import/export standards in key markets worldwide."
+        }
+      ],
+      "valueProps": [
+        {
+          "icon": "Brain",
+          "title": "Culinary Heritage",
+          "desc": "Recipes developed in collaboration with coastal communities and master chefs."
+        },
+        {
+          "icon": "Cloud",
+          "title": "Shelf Stability",
+          "desc": "Advanced preservation techniques ensure premium flavor without additives."
+        }
+      ],
+      "techSpecs": [
+        {
+          "title": "Processing Standards",
+          "items": [
+            "HACCP‑certified facilities",
+            "Digital temperature logs",
+            "pH and salt concentration monitoring"
+          ]
+        },
+        {
+          "title": "Packaging & Labeling",
+          "items": [
+            "Tamper‑evident seals",
+            "Multi‑language labeling",
+            "QR‑based trace codes"
+          ]
+        }
+      ],
+      "success": [
+        {
+          "title": "Luxury Retail Chain",
+          "desc": "Saw a 40% uplift in specialty seafood sales after introducing QR‑traceable gourmet lines."
+        },
+        {
+          "title": "Export Consortium",
+          "desc": "Gained MSCA certification for fermented seafood exports in under 3 months."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Are there any preservatives used?",
+          "a": "We use natural fermentation and salt; no chemical preservatives are added."
+        },
+        {
+          "q": "Can I customize spice levels?",
+          "a": "Yes—bulk orders support adjustable spice and brine concentrations."
+        }
+      ],
+      "comparisonColumns": [
+        "Metric",
+        "Aazhimin Delicacies",
+        "Conventional Processed"
+      ],
+      "comparisons": [
+        ["Traceability", "Batch QR + blockchain", "None"],
+        ["Flavor Consistency", "Lab‑verified", "Variable"],
+        ["Shelf Life", "6–12 months", "3–6 months"],
+        ["Export Readiness", "Pre‑approved docs", "Manual certification"]
+      ],
+      "partners": [
+        "gourmet-retail.png",
+        "export-consortium.png"
+      ]
+    },
+    {
+      "slug": "fresh-seafood",
+      "hero": {
+        "title": "Daily Fresh Seafood",
+        "description": "Harvested at dawn and packed with care—every fillet, prawn, and squid ring features a digital origin badge for complete transparency.",
+        "cta": {
+          "text": "Trace Today’s Catch",
+          "target": "/contact"
+        },
+        "image": "fresh_seafood.png"
+      },
+      "features": [
+        {
+          "icon": "Shield",
+          "title": "Morning Harvest Sync",
+          "desc": "Catch details uploaded in real time from coastal docks the moment nets hit the shore."
+        },
+        {
+          "icon": "Cloud",
+          "title": "Pack-Level Tracking",
+          "desc": "Each package scanned and logged with vessel ID, date, and location."
+        },
+        {
+          "icon": "Rocket",
+          "title": "Express Delivery",
+          "desc": "From dock to distributor in under 12 hours, with live temperature monitoring."
+        }
+      ],
+      "valueProps": [
+        {
+          "icon": "Brain",
+          "title": "Chef-Approved Quality",
+          "desc": "Selected by top chefs for superior texture and flavor—backed by data."
+        },
+        {
+          "icon": "Cloud",
+          "title": "Seamless Integration",
+          "desc": "API endpoints deliver inventory and trace data directly to your systems."
+        }
+      ],
+      "techSpecs": [
+        {
+          "title": "Dockside Tech",
+          "items": [
+            "Automated weighing stations",
+            "QR-enabled batch recording",
+            "Immediate cloud sync"
+          ]
+        },
+        {
+          "title": "Logistics Chain",
+          "items": [
+            "Reefer truck telemetry",
+            "GPS-based route optimization",
+            "Automated ETA updates"
+          ]
+        }
+      ],
+      "success": [
+        {
+          "title": "Regional Retailer",
+          "desc": "Boosted repeat orders by 25% after offering fully traceable fresh seafood."
+        },
+        {
+          "title": "Foodservice Supplier",
+          "desc": "Reduced delivery errors by 40% using integrated packing and tracking."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "How quickly after catch does packing occur?",
+          "a": "All harvest is processed and packed within 2 hours of landing."
+        },
+        {
+          "q": "Can I customize delivery windows?",
+          "a": "Yes—schedule deliveries in 2-hour windows via our logistics API."
+        }
+      ],
+      "comparisonColumns": [
+        "Metric",
+        "Aazhimin Fresh Seafood",
+        "Traditional Market"
+      ],
+      "comparisons": [
+        ["Trace Latency", "Minutes", "Days"],
+        ["Temperature Logging", "Continuous", "Spot checks"],
+        ["Order Accuracy", "95%+", "80%"],
+        ["Customer Trust", "High", "Variable"]
+      ],
+      "partners": [
+        "regional-retailer.png",
+        "foodservice-supplier.png"
+      ]
+    },
+    {
+      "slug": "ready-to-cook",
+      "hero": {
+        "title": "Ready-to-Cook Seafood Packs",
+        "description": "Pre‑cleaned, cut, and portioned seafood packs designed for home kitchens and HORECA, complete with digital traceability from harvest to plate.",
+        "cta": {
+          "text": "Order Ready Packs",
+          "target": "/shop/b2c"
+        },
+        "image": "ready_to_cook.png"
+      },
+      "features": [
+        {
+          "icon": "Rocket",
+          "title": "Precision Portions",
+          "desc": "Pre‑weighed and cut to order sizes, reducing prep time and waste."
+        },
+        {
+          "icon": "Shield",
+          "title": "Hygiene‑First",
+          "desc": "Processed in certified facilities with real‑time sanitation logs."
+        },
+        {
+          "icon": "Cloud",
+          "title": "Traceable Packs",
+          "desc": "Each pack carries a QR code linking to harvest date, vessel, and location."
+        }
+      ],
+      "valueProps": [
+        {
+          "icon": "Brain",
+          "title": "Chef‑Ready",
+          "desc": "Trusted by professional kitchens for consistency and quality."
+        },
+        {
+          "icon": "Cloud",
+          "title": "Fast Delivery",
+          "desc": "Shipped via our smart cold chain network to arrive within 24 hours."
+        }
+      ],
+      "techSpecs": [
+        {
+          "title": "Processing Specs",
+          "items": [
+            "Vacuum sealing within 1 hour of harvest",
+            "Portion sizes: 200g, 400g, 800g",
+            "MAP packaging for extended shelf life"
+          ]
+        },
+        {
+          "title": "Distribution Network",
+          "items": [
+            "Reefer truck GPS tracking",
+            "Automated dispatch notifications",
+            "Cold chain integrity sensors"
+          ]
+        }
+      ],
+      "success": [
+        {
+          "title": "Cloud Kitchen Pilot",
+          "desc": "Reduced prep time by 50% and boosted order capacity by 2×."
+        },
+        {
+          "title": "Hospitality Group",
+          "desc": "Achieved 99% menu consistency across 5 venues with traceable packs."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "How long do packs stay fresh?",
+          "a": "Up to 7 days refrigerated; up to 30 days frozen."
+        },
+        {
+          "q": "Can I choose custom cuts?",
+          "a": "Yes—custom cut options are available for orders above 20kg."
+        }
+      ],
+      "comparisonColumns": [
+        "Metric",
+        "Aazhimin Ready Packs",
+        "Standard Prep"
+      ],
+      "comparisons": [
+        ["Prep Time", "5 mins", "20+ mins"],
+        ["Sanitation Logs", "Automated digital", "Manual"],
+        ["Portion Accuracy", "±5g", "±20g"],
+        ["Shelf Life", "7–30 days", "2–5 days"]
+      ],
+      "partners": [
+        "cloud-kitchen.png",
+        "hospitality-group.png"
+      ]
+    },
+    {
+      "slug": "frozen-seafood",
+      "hero": {
+        "title": "Frozen Seafood Blocks & IQF",
+        "description": "Industry‑grade frozen seafood, individually quick‑frozen (IQF) or block‑frozen, optimized for institutional kitchens and global export.",
+        "cta": {
+          "text": "Request Bulk Quote",
+          "target": "/contact"
+        },
+        "image": "frozen_blocks.png"
+      },
+      "features": [
+        {
+          "icon": "Shield",
+          "title": "Smart Packaging",
+          "desc": "Insulated, sensor‑tagged containers maintain stable temperatures throughout transit."
+        },
+        {
+          "icon": "Cloud",
+          "title": "IQF Precision",
+          "desc": "Individually quick‑frozen for premium texture and minimal ice crystals."
+        },
+        {
+          "icon": "Rocket",
+          "title": "Global Compliance",
+          "desc": "Meets EU, US FDA, and APEDA standards for international shipping."
+        }
+      ],
+      "valueProps": [
+        {
+          "icon": "Brain",
+          "title": "Scale & Consistency",
+          "desc": "Uniform quality across tons‑scale orders for foodservice and processing."
+        },
+        {
+          "icon": "Cloud",
+          "title": "Traceable Loads",
+          "desc": "Shipment manifests integrate with port customs and ERP systems in real time."
+        }
+      ],
+      "techSpecs": [
+        {
+          "title": "Freezing Methods",
+          "items": [
+            "IQF tunnel freezing at –40°C",
+            "Block freezing under controlled pressure",
+            "Rapid chill‑down cycles"
+          ]
+        },
+        {
+          "title": "Logistics Integration",
+          "items": [
+            "GPS‑enabled reefer containers",
+            "Cold chain alerts via SMS/API",
+            "Automated customs docs"
+          ]
+        }
+      ],
+      "success": [
+        {
+          "title": "International Distributor",
+          "desc": "Cut customs clearance time by 3 days using pre‑verified digital documentation."
+        },
+        {
+          "title": "Institutional Catering",
+          "desc": "Maintained 98% batch quality consistency across 50+ weekly orders."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "What are minimum order volumes?",
+          "a": "Standard blocks: 500kg; IQF: 200kg increments."
+        },
+        {
+          "q": "How is temperature monitored?",
+          "a": "Real‑time sensors report to our dashboard with SMS alerts on threshold breach."
+        }
+      ],
+      "comparisonColumns": [
+        "Metric",
+        "Aazhimin Frozen",
+        "Traditional Frozen"
+      ],
+      "comparisons": [
+        ["Freezing Speed", "≤2 hrs", "4–6 hrs"],
+        ["Temperature Variance", "±1°C", "±3°C"],
+        ["Batch Traceability", "End‑to‑end", "Manual logs"],
+        ["Quality Yield", "98% intact", "85–90% intact"]
+      ],
+      "partners": [
+        "intl-distributor.png",
+        "institutional-catering.png"
+      ]
+    },
+    {
+      "slug": "byproducts-extracts",
+      "hero": {
+        "title": "Byproducts & Extracts",
+        "description": "High‑value marine byproducts—fish oil, chitosan, collagen, and more—extracted under sustainable, zero‑waste protocols with full traceability.",
+        "cta": {
+          "text": "Explore Byproducts",
+          "target": "/contact"
+        },
+        "image": "byproducts.png"
+      },
+      "features": [
+        {
+          "icon": "Shield",
+          "title": "Zero‑Waste Extraction",
+          "desc": "Processes designed to convert 100% of harvest waste into valuable products."
+        },
+        {
+          "icon": "Cloud",
+          "title": "Lab‑Verified Purity",
+          "desc": "Batch testing for potency, contaminants, and nutritional profiles."
+        },
+        {
+          "icon": "Rocket",
+          "title": "Scalable Production",
+          "desc": "Modular extraction units capable of handling from small farms to industrial volumes."
+        }
+      ],
+      "valueProps": [
+        {
+          "icon": "Brain",
+          "title": "Circular Economy",
+          "desc": "Transforms waste into high‑margin nutraceutical and pharma ingredients."
+        },
+        {
+          "icon": "Cloud",
+          "title": "Digital Quality Records",
+          "desc": "Each lot accompanied by blockchain‑sealed lab certificates."
+        }
+      ],
+      "techSpecs": [
+        {
+          "title": "Extraction Methods",
+          "items": [
+            "Cold‑pressed fish oil",
+            "Enzymatic collagen recovery",
+            "Chemical‑free chitosan isolation"
+          ]
+        },
+        {
+          "title": "Quality Assurance",
+          "items": [
+            "GC‑MS purity analysis",
+            "Microbial safety testing",
+            "Real‑time process monitoring"
+          ]
+        }
+      ],
+      "success": [
+        {
+          "title": "Nutraceutical Brand",
+          "desc": "Achieved 99% purity specification for omega‑3 oils, boosting consumer trust."
+        },
+        {
+          "title": "Pharma Supplier",
+          "desc": "Integrated Aazhimin extracts into formulations with zero batch failures."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "What is the shelf life of the extracts?",
+          "a": "Up to 24 months when stored under recommended conditions."
+        },
+        {
+          "q": "Are these products GMO‑free?",
+          "a": "Yes—our processes use only natural enzymes and mechanical separation."
+        }
+      ],
+      "comparisonColumns": [
+        "Parameter",
+        "Aazhimin Extracts",
+        "Conventional Extracts"
+      ],
+      "comparisons": [
+        ["Purity Level", "≥99%", "90–95%"],
+        ["Extraction Time", "2–4 hrs", "8–12 hrs"],
+        ["Waste Generated", "0%", "10–15%"],
+        ["Certification Speed", "Instant digital", "Weeks"]
+      ],
+      "partners": [
+        "nutraceutical-brand.png",
+        "pharma-supplier.png"
+      ]
+    },
+    {
+      "slug": "consumer-packs",
+      "hero": {
+        "title": "Consumer Seafood Packs",
+        "description": "Retail‑ready, portioned seafood in branded packaging—with scannable QR codes for full origin and sustainability details.",
+        "cta": {
+          "text": "Find in Stores",
+          "target": "/shop/b2c"
+        },
+        "image": "consumer_packs.png"
+      },
+      "features": [
+        {
+          "icon": "Shield",
+          "title": "Shelf‑Ready Packaging",
+          "desc": "Designed for retail shelves with tamper‑evident seals and clear labeling."
+        },
+        {
+          "icon": "Cloud",
+          "title": "Interactive QR Codes",
+          "desc": "Scan to see harvest date, vessel ID, and processing details."
+        },
+        {
+          "icon": "Rocket",
+          "title": "Variety of Portions",
+          "desc": "Options from single‑serve to family packs in multiple species."
+        }
+      ],
+      "valueProps": [
+        {
+          "icon": "Brain",
+          "title": "Consumer Engagement",
+          "desc": "Build trust and brand loyalty through transparent product stories."
+        },
+        {
+          "icon": "Cloud",
+          "title": "Retail Integration",
+          "desc": "Syncs instantly with POS and inventory systems via API."
+        }
+      ],
+      "techSpecs": [
+        {
+          "title": "Packaging Standards",
+          "items": [
+            "Tamper‑evident film",
+            "Vacuum‑or MAP sealing",
+            "Multi‑lingual labels"
+          ]
+        },
+        {
+          "title": "Traceability Tools",
+          "items": [
+            "QR code generation",
+            "Batch‑level blockchain logging",
+            "Mobile scan interface"
+          ]
+        }
+      ],
+      "success": [
+        {
+          "title": "Supermarket Chain",
+          "desc": "Saw a 30% sales uplift after introducing QR‑traceable seafood packs."
+        },
+        {
+          "title": "Specialty Grocer",
+          "desc": "Garnered 5× more social media engagement from trace stories."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Where can I buy these packs?",
+          "a": "Available at major supermarkets, seafood counters, and online via our B2C store."
+        },
+        {
+          "q": "How do I scan the QR code?",
+          "a": "Use any smartphone camera app or our Aazhimin Trace app to view details."
+        }
+      ],
+      "comparisonColumns": [
+        "Feature",
+        "Aazhimin Packs",
+        "Standard Packs"
+      ],
+      "comparisons": [
+        ["Traceability", "QR + blockchain", "None"],
+        ["Shelf Life", "7–10 days", "3–5 days"],
+        ["Packaging Integrity", "Tamper‑evident", "Standard wrap"],
+        ["Brand Engagement", "High", "Low"]
+      ],
+      "partners": [
+        "supermarket-chain.png",
+        "specialty-grocer.png"
+      ]
+    },
+    {
+      "slug": "bulk-orders",
+      "hero": {
+        "title": "Bulk Seafood Orders",
+        "description": "Flexible wholesale seafood procurement for distributors, processors, and exporters—backed by digital certifications and seamless trade compliance.",
+        "cta": {
+          "text": "Request Wholesale",
+          "target": "/contact"
+        },
+        "image": "bulk_orders.png"
+      },
+      "features": [
+        {
+          "icon": "Shield",
+          "title": "Automated Trade Docs",
+          "desc": "Instant generation of customs, health, and sustainability certificates."
+        },
+        {
+          "icon": "Cloud",
+          "title": "Real‑Time Order Tracking",
+          "desc": "Monitor your shipment from vessel loading to warehouse delivery."
+        },
+        {
+          "icon": "Rocket",
+          "title": "Tiered Pricing",
+          "desc": "Volume‑based discounts and expedited handling for large orders."
+        }
+      ],
+      "valueProps": [
+        {
+          "icon": "Brain",
+          "title": "Guaranteed Supply",
+          "desc": "Access committed quotas to ensure consistent inventory levels."
+        },
+        {
+          "icon": "Cloud",
+          "title": "ERP Integration",
+          "desc": "Sync orders, invoices, and certifications directly with your backend systems."
+        }
+      ],
+      "techSpecs": [
+        {
+          "title": "Order Management",
+          "items": [
+            "API‑driven order entry",
+            "Automated invoice generation",
+            "Batch trace logging"
+          ]
+        },
+        {
+          "title": "Logistics & Compliance",
+          "items": [
+            "Cold‑chain monitoring",
+            "Customs e‑filing",
+            "Automated duty calculations"
+          ]
+        }
+      ],
+      "success": [
+        {
+          "title": "Global Distributor",
+          "desc": "Scaled orders by 5× while reducing documentation time by 70%."
+        },
+        {
+          "title": "Seafood Processor",
+          "desc": "Streamlined supply chain integration, cutting lead times by 48 hours."
+        }
+      ],
+      "faqs": [
+        {
+          "q": "What are minimum order quantities?",
+          "a": "Standard minimum is 1 metric ton, customizable upon request."
+        },
+        {
+          "q": "How are customs fees handled?",
+          "a": "Our system estimates and automates fee payments through integrated e‑filing."
+        }
+      ],
+      "comparisonColumns": [
+        "Metric",
+        "Aazhimin Bulk Orders",
+        "Traditional Ordering"
+      ],
+      "comparisons": [
+        ["Documentation Speed", "Instant", "Days‑long manual"],
+        ["Order Visibility", "Real‑time dashboard", "Periodic updates"],
+        ["Pricing Model", "Dynamic tiers", "Flat rates"],
+        ["Integration", "API + EDI", "Manual uploads"]
+      ],
+      "partners": [
+        "global-distributor.png",
+        "processor.png"
+      ]
+    }    
+  ]
+}

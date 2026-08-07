@@ -1,0 +1,406 @@
+{
+  "impact": [
+    {
+      "slug": "research-lab",
+      "title": "Marine R&D Lab",
+      "subtitle": "Innovation in aquatech, hatchery optimization, and ecological modeling.",
+      "image": "marine-lab.jpg",
+      "overview": "The Marine R&D Lab is Aazhimin’s dedicated space for pioneering marine technologies, aquaculture advancements, and environmental intelligence. It integrates science, field data, and simulation to drive innovation in sustainable seafood systems and ocean operations.",
+      "goals": [
+        {
+          "title": "Aquatech Innovation",
+          "icon": "Wrench",
+          "desc": "Develop new tools for smart hatcheries, water quality control, and breed health."
+        },
+        {
+          "title": "Ecosystem Modeling",
+          "icon": "Waves",
+          "desc": "Create digital twins of marine environments for planning and intervention."
+        },
+        {
+          "title": "Impact-Driven Research",
+          "icon": "BookOpen",
+          "desc": "Collaborate with institutions on studies that deliver actionable insights."
+        }
+      ],
+      "activities": [
+        {
+          "title": "Pilot Hatchery Systems",
+          "desc": "Design and deploy intelligent hatchery prototypes integrated with sensors and AI."
+        },
+        {
+          "title": "Data Collection Programs",
+          "desc": "Gather on-ground data from coastal farms, labs, and wild catch sites."
+        },
+        {
+          "title": "Simulation & Forecasting",
+          "desc": "Model nutrient flows, breeding cycles, and climate impacts using custom simulations."
+        }
+      ],
+      "impact": "The R&D Lab empowers Aazhimin and partners with real-world data, tools, and models to transform how we manage aquatic systems — from increasing hatchery yields to forecasting ecological stress in near-shore waters.",
+      "metrics": {
+        "prototypesDeployed": 6,
+        "collaborations": 12,
+        "papersPublished": 9,
+        "ecosystemsModeled": 5
+      },
+      "partners": [
+        "cmfri.png",
+        "icar-logo.png",
+        "niot.jpg",
+        "marine-biology-institute.png"
+      ]
+    },
+    {
+      "slug": "women-in-fisheries",
+      "title": "Women in Fisheries",
+      "subtitle": "Upskilling and empowering women in seafood operations and leadership.",
+      "image": "women-fisheries.jpg",
+      "overview": "The Women in Fisheries program is a targeted initiative to integrate and empower women across the seafood value chain. From fish processing to digital traceability systems, we build skills, confidence, and economic independence for women in coastal communities.",
+      "goals": [
+        {
+          "title": "Skill Development",
+          "icon": "Users",
+          "desc": "Train women in seafood handling, hygiene, cold chain protocols, and technology use."
+        },
+        {
+          "title": "Digital Inclusion",
+          "icon": "Code",
+          "desc": "Enable women to engage in traceability platforms, mobile commerce, and logistics systems."
+        },
+        {
+          "title": "Leadership & Ownership",
+          "icon": "ShieldCheck",
+          "desc": "Foster community leaders and women-led cooperatives in the fisheries sector."
+        }
+      ],
+      "activities": [
+        {
+          "title": "Training Bootcamps",
+          "desc": "Organize hands-on training programs in fish processing, digital literacy, and packaging."
+        },
+        {
+          "title": "Tech for Women Workshops",
+          "desc": "Introduce women to supply chain tools, trace apps, and marine compliance systems."
+        },
+        {
+          "title": "Micro-Enterprise Support",
+          "desc": "Mentor women-owned seafood businesses with branding, quality, and market access."
+        }
+      ],
+      "impact": "This initiative has helped hundreds of women transition from informal labor to certified professionals and entrepreneurs. With tech access, skill certification, and financial literacy, they now actively lead and shape sustainable fisheries.",
+      "metrics": {
+        "womenTrained": 800,
+        "cooperativesFormed": 14,
+        "certificationsIssued": 500,
+        "microenterprisesEnabled": 37
+      },
+      "partners": [
+        "unwomen.png",
+        "fao-logo.png",
+        "self-help-group.png",
+        "coastal-ministry-logo.png"
+      ]
+    },
+    {
+      "slug": "community-outreach",
+      "title": "Community Outreach",
+      "subtitle": "Health, literacy, and youth programs in coastal communities.",
+      "image": "community-outreach.jpg",
+      "overview": "Aazhimin’s Community Outreach program delivers health, education, and livelihood support to coastal families. We partner with local institutions and NGOs to strengthen resilience, improve well-being, and build a digitally aware generation in fishing villages.",
+      "goals": [
+        {
+          "title": "Health & Hygiene Access",
+          "icon": "ThermometerSnowflake",
+          "desc": "Deliver first-aid, sanitation, and awareness programs to reduce disease outbreaks."
+        },
+        {
+          "title": "Education for Youth",
+          "icon": "BookOpen",
+          "desc": "Support school-age children with digital literacy, STEM clubs, and scholarships."
+        },
+        {
+          "title": "Community Resilience",
+          "icon": "Users",
+          "desc": "Empower families with disaster readiness, livelihood diversification, and support services."
+        }
+      ],
+      "activities": [
+        {
+          "title": "Mobile Health Camps",
+          "desc": "Organize seasonal medical checkups and distribute hygiene kits in fishing zones."
+        },
+        {
+          "title": "Digital Village Programs",
+          "desc": "Set up learning kiosks and offer training in mobile-based tools and safety tech."
+        },
+        {
+          "title": "Community Events & Dialogues",
+          "desc": "Host open discussions on sustainability, safety, and women's participation."
+        }
+      ],
+      "impact": "Our outreach programs reach over 30 coastal communities annually, creating long-term social value and bridging the digital and healthcare divide for vulnerable populations linked to the sea economy.",
+      "metrics": {
+        "communitiesReached": 30,
+        "youthTrained": 1200,
+        "healthKitsDistributed": 5000,
+        "digitalCentersDeployed": 15
+      },
+      "partners": [
+        "red-cross.png",
+        "unesco.png",
+        "local-panchayat.png",
+        "community-health-group.png"
+      ]
+    },
+    {
+      "slug": "safety-training",
+      "title": "Safety & Training",
+      "subtitle": "Marine safety, hygiene, and certified training programs for workers.",
+      "image": "safety-training.jpg",
+      "overview": "The Safety & Training initiative empowers fishers, port workers, and coastal youth with life-saving skills, marine safety education, and digital operations training. Aazhimin partners with coast guards, training institutes, and regulators to enhance workplace and at-sea safety standards.",
+      "goals": [
+        {
+          "title": "Marine Safety Education",
+          "icon": "ShieldCheck",
+          "desc": "Deliver essential safety drills and weather-readiness programs to fishing crews."
+        },
+        {
+          "title": "Certified Skills Training",
+          "icon": "Wrench",
+          "desc": "Provide accredited training in seafood handling, drone ops, and inspection tech."
+        },
+        {
+          "title": "Emergency Response Prep",
+          "icon": "CloudRain",
+          "desc": "Equip local responders with rescue coordination tools and first-response kits."
+        }
+      ],
+      "activities": [
+        {
+          "title": "Onboard Safety Bootcamps",
+          "desc": "Real-vessel drills for emergency signals, flotation gear, and fire prevention."
+        },
+        {
+          "title": "Tech-for-Safety Workshops",
+          "desc": "Introduce mobile apps, tracking devices, and alert systems to fishers and traders."
+        },
+        {
+          "title": "Certification Programs",
+          "desc": "Partner with training bodies to issue industry-recognized safety certificates."
+        }
+      ],
+      "impact": "The program has significantly reduced at-sea incident rates and improved job-readiness for youth entering blue economy roles. Over 8,000 personnel trained with verified certifications across coastal districts.",
+      "metrics": {
+        "peopleTrained": 8000,
+        "certificationsIssued": 3200,
+        "safetyDrillsConducted": 180,
+        "rescueKitsDistributed": 400
+      },
+      "partners": [
+        "indian-coast-guard.png",
+        "fisheries-institute.png",
+        "disaster-relief.png",
+        "marine-training-academy.png"
+      ]
+    },
+    {
+      "slug": "zero-waste",
+      "title": "Zero Waste",
+      "subtitle": "Circular economy practices using 100% of harvest waste responsibly.",
+      "image": "zero-waste.jpg",
+      "overview": "The Zero Waste initiative by Aazhimin ensures that every part of harvested marine produce is utilized — from fish bones to shells. We extract oils, chitosan, protein powders, and fertilizers, reducing landfill burden and unlocking new value chains for coastal communities.",
+      "goals": [
+        {
+          "title": "100% Utilization Goal",
+          "icon": "Recycle",
+          "desc": "Design systems that convert all seafood waste into usable byproducts."
+        },
+        {
+          "title": "Local Processing Units",
+          "icon": "Factory",
+          "desc": "Deploy scalable waste-to-resource modules at landing centers."
+        },
+        {
+          "title": "Value Chain Expansion",
+          "icon": "BarChart3",
+          "desc": "Support new industries in nutraceuticals, animal feed, and biofertilizers."
+        }
+      ],
+      "activities": [
+        {
+          "title": "Chitosan & Collagen Extraction",
+          "desc": "Use shrimp shells and fish skin to derive high-value biomedical materials."
+        },
+        {
+          "title": "Fish Waste Composting",
+          "desc": "Convert unprocessable remains into rich organic fertilizer for coastal farming."
+        },
+        {
+          "title": "Circular Design Pilots",
+          "desc": "Create community-run units with zero-disposal operations."
+        }
+      ],
+      "impact": "Over 35 tons of seafood waste per month are now diverted from dumpsites. Processed materials contribute to the pharma, agri, and cosmetics sectors, generating new income for marginalized fisher households.",
+      "metrics": {
+        "wasteProcessedPerMonth": "35 tons",
+        "productsDerived": 12,
+        "communityUnitsEnabled": 14,
+        "emissionsReduced": "120 MT CO₂e annually"
+      },
+      "partners": [
+        "marine-biotech.png",
+        "green-coast.png",
+        "blue-circle-labs.png"
+      ]
+    },
+    {
+      "slug": "climate-resilience",
+      "title": "Climate Resilience",
+      "subtitle": "Data-driven models for protecting fisheries from climate disruption.",
+      "image": "climate-resilience.jpg",
+      "overview": "The Climate Resilience program leverages ocean temperature models, fish migration patterns, and storm data to help fishing communities adapt to climate change. From predictive alerts to adaptive fishing zones, we empower local ecosystems to thrive under uncertainty.",
+      "goals": [
+        {
+          "title": "Early Warning Systems",
+          "icon": "CloudRain",
+          "desc": "Deploy ocean-climate sensors and satellite links for real-time risk alerts."
+        },
+        {
+          "title": "Adaptive Fishing Models",
+          "icon": "Waves",
+          "desc": "Adjust fishing practices and zoning based on species movement trends."
+        },
+        {
+          "title": "Community Training",
+          "icon": "Users",
+          "desc": "Upskill fisherfolk to read data dashboards and make climate-smart decisions."
+        }
+      ],
+      "activities": [
+        {
+          "title": "Climate Dashboard Rollout",
+          "desc": "Launched live ocean intelligence screens in 8 coastal districts."
+        },
+        {
+          "title": "Resilient Species Trials",
+          "desc": "Worked with hatcheries to study temperature-tolerant aquatic species."
+        },
+        {
+          "title": "Storm-Prep Workshops",
+          "desc": "Conducted training in 26 villages on risk avoidance and sea-readiness."
+        }
+      ],
+      "impact": "Fishing disruptions due to extreme weather events dropped by 40% in pilot zones. Hatcheries saw a 15% increase in survival rates through adaptive protocols.",
+      "metrics": {
+        "alertsDelivered": 1250,
+        "villagesCovered": 32,
+        "uptimeOfClimateSystems": "99.3%",
+        "trainingSessions": 78
+      },
+      "partners": [
+        "incois.png",
+        "niot.jpg",
+        "coastal-climate-alliance.png"
+      ]
+    },
+    {
+      "slug": "safecast",
+      "title": "SafeCast",
+      "subtitle": "Marine wearables, alert networks, and weather sensors to keep crews safe.",
+      "image": "safecast.jpg",
+      "overview": "SafeCast is our integrated safety infrastructure for coastal workers and marine operations. Combining real-time alerts, GPS-enabled wearables, and predictive weather data, SafeCast ensures incident prevention, rapid response, and crew well-being.",
+      "goals": [
+        {
+          "title": "Crew Safety Monitoring",
+          "icon": "ShieldCheck",
+          "desc": "Deploy wearable devices with SOS, location, and biometric tracking."
+        },
+        {
+          "title": "Environmental Alerts",
+          "icon": "CloudRain",
+          "desc": "Integrate coastal weather data and sea-state sensors for early warnings."
+        },
+        {
+          "title": "Incident Reduction",
+          "icon": "ActivitySquare",
+          "desc": "Automate alerts and evacuations based on threshold exceedance."
+        }
+      ],
+      "activities": [
+        {
+          "title": "Wearable Distribution",
+          "desc": "Issued smart badges to 950+ fishers and harbor workers."
+        },
+        {
+          "title": "Hazard Mapping",
+          "desc": "Mapped 60+ high-risk sea routes with AI hazard zones."
+        },
+        {
+          "title": "Weather Mesh Trials",
+          "desc": "Deployed 20 low-cost coastal weather nodes for real-time data."
+        }
+      ],
+      "impact": "SafeCast has reduced incident response times by 60%, improved crew visibility, and enabled proactive evacuation in storm conditions.",
+      "metrics": {
+        "devicesDeployed": 975,
+        "alertsGenerated": 1428,
+        "zonesCovered": 64,
+        "incidentResponseImproved": "60%"
+      },
+      "partners": [
+        "coastguard.png",
+        "ocean-rescue-initiative.png"
+      ]
+    },
+    {
+      "slug": "cleanhull",
+      "title": "CleanHull",
+      "subtitle": "Robotic cleaning and anti-fouling systems for vessels and tanks.",
+      "image": "cleanhull.jpg",
+      "overview": "CleanHull deploys autonomous crawler units to remove biofouling from hulls, propellers, and ballast tanks. This improves vessel performance, fuel efficiency, and reduces emissions, supporting zero-waste and sustainability goals.",
+      "goals": [
+        {
+          "title": "Fuel Efficiency",
+          "icon": "Rocket",
+          "desc": "Reduce drag through routine robotic hull cleaning."
+        },
+        {
+          "title": "Biofouling Reduction",
+          "icon": "Waves",
+          "desc": "Prevent invasive species transfer and maintain eco-balance."
+        },
+        {
+          "title": "Tank Maintenance",
+          "icon": "Wrench",
+          "desc": "Enable remote, autonomous cleaning of ballast tanks."
+        }
+      ],
+      "activities": [
+        {
+          "title": "Fleet-Wide Rollout",
+          "desc": "Implemented in 30+ vessels for quarterly robotic cleaning."
+        },
+        {
+          "title": "Sludge Capture Pilot",
+          "desc": "Integrated suction and filtration to prevent marine contamination."
+        },
+        {
+          "title": "Sensor Fusion Trials",
+          "desc": "Used LIDAR and ultrasonic sensors to detect growth and paint loss."
+        }
+      ],
+      "impact": "CleanHull has improved fuel efficiency by up to 12%, eliminated diver-based cleaning risk, and reduced dry dock time by 40%.",
+      "metrics": {
+        "vesselsServiced": 32,
+        "fuelSavedAnnually": "1.8 million L",
+        "emissionsReduced": "11% CO2",
+        "diverTasksReplaced": "100%"
+      },
+      "partners": [
+        "marine-tech-alliance.png",
+        "eco-fleet-group.png"
+      ]
+    }
+  ]
+}

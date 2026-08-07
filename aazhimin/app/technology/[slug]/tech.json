@@ -1,0 +1,1477 @@
+{
+  "technology": [
+    {
+      "slug": "catchbot",
+      "title": "CatchBot",
+      "subtitle": "Next-gen autonomous fishing drones with species recognition and quota control for sustainable harvests.",
+      "image": "catchbot.png",
+      "overview": "CatchBot automates the fishing process using advanced sensors and AI to identify target species, monitor quotas, and perform ethical net deployment, ensuring precision and sustainability.",
+      "why": "Manual fishing operations often face issues of bycatch, quota violations, and safety risks. CatchBot eliminates these challenges by providing real-time species identification, quota management, and autonomous operation, reducing human errors and environmental impact.",
+      "usedIn": [
+        {
+          "title": "Selective Harvesting",
+          "desc": "AI sensors detect and target specific species while avoiding non-targets, minimizing bycatch."
+        },
+        {
+          "title": "Quota Enforcement",
+          "desc": "Automatically tracks catch volumes and stops operations upon reaching quotas to comply with regulations."
+        },
+        {
+          "title": "Night & Low-Visibility Ops",
+          "desc": "Equipped with infrared and sonar sensors to maintain high accuracy in all conditions."
+        }
+      ],
+      "benefits": [
+        { "title": "Reduced Bycatch", "desc": "Minimizes unintended catch through precise species detection." },
+        { "title": "Regulatory Compliance", "desc": "Ensures quota adherence with automated logs and alerts." },
+        { "title": "Enhanced Safety", "desc": "Removes crew from hazardous deck operations during fishing." }
+      ],
+      "impact": "CatchBot has transformed fisheries by improving resource management, enhancing catch quality, and promoting safer working environments, leading to a 30% reduction in bycatch and 20% increase in operational efficiency.",
+      "media": [
+        "catchbot-deployment.jpg",
+        "catchbot-identification.gif",
+        "catchbot-harvest.png"
+      ],
+      "applications": [
+        "Commercial fishing fleets",
+        "Protected species avoidance",
+        "Research expeditions"
+      ],
+      "metrics": {
+        "bycatchReduction": "30%",
+        "quotaCompliance": "100% real-time enforcement",
+        "efficiencyGain": "20% faster catch cycles",
+        "safetyIncidents": "0 reported accidents"
+      },
+      "datasets": [
+        { "name": "CatchBot Operation Logs", "link": "/datasets/tech/catchbot-logs.json" },
+        { "name": "Species Recognition Models", "link": "/datasets/tech/species-models.zip" }
+      ],
+      "publications": [
+        {
+          "title": "AI-Driven Autonomous Fishing",
+          "authors": ["L. Singh", "A. Patel"],
+          "year": 2025,
+          "link": "https://doi.org/10.1234/marine.catchbot.ai"
+        },
+        {
+          "title": "Reducing Bycatch with Robotics",
+          "authors": ["N. Rao", "S. Das"],
+          "year": 2024,
+          "link": "https://journals.oceaneng/robotics-bycatch"
+        }
+      ]
+    },
+    {
+      "slug": "cargofin",
+      "title": "CargoFin",
+      "subtitle": "Autonomous marine logistics vessels for fish, fuel, and supply transport with precision and reliability.",
+      "image": "cargofin.png",
+      "overview": "CargoFin automates maritime logistics by deploying self-navigating vessels equipped with advanced routing algorithms, load sensors, and real-time tracking, ensuring efficient and secure delivery of seafood and supplies.",
+      "why": "Conventional marine transport faces delays, manual routing, and high operational costs. CargoFin removes human error, optimizes fuel usage, and provides end-to-end visibility, reducing costs and improving delivery timelines.",
+      "usedIn": [
+        {
+          "title": "Supply Chain Integration",
+          "desc": "Seamless coordination between fishing vessels and processing plants via autonomous cargo runs."
+        },
+        {
+          "title": "Remote Outpost Resupply",
+          "desc": "Automated deliveries to island communities and offshore platforms on fixed schedules."
+        },
+        {
+          "title": "Emergency Fuel Drops",
+          "desc": "Rapid response to vessels low on fuel in remote sea zones with precise delivery systems."
+        }
+      ],
+      "benefits": [
+        {
+          "title": "Cost Efficiency",
+          "desc": "Up to 30% reduction in fuel and crew costs through optimized autonomous routing."
+        },
+        {
+          "title": "Operational Reliability",
+          "desc": "Predictable, scheduled deliveries unaffected by crew availability or weather variability."
+        },
+        {
+          "title": "Real-Time Visibility",
+          "desc": "Live vessel telemetry and cargo status updates via integrated dashboards."
+        }
+      ],
+      "impact": "CargoFin has streamlined marine supply chains, cutting average delivery times by 40% and enabling continuous operations in previously inaccessible areas, while reducing operational carbon footprints.",
+      "media": [
+        "cargofin-vessel-deploy.jpg",
+        "cargofin-control-room.gif",
+        "cargofin-autodock.png"
+      ],
+      "applications": [
+        "Fresh catch transport",
+        "Fuel and provisions delivery",
+        "Medical and emergency supply chains"
+      ],
+      "metrics": {
+        "deliveryTimeReduction": "40%",
+        "costSaving": "30%",
+        "uptime": "99.5%",
+        "carbonReduction": "20%"
+      },
+      "datasets": [
+        {
+          "name": "CargoFin Delivery Logs",
+          "link": "/datasets/tech/cargofin-delivery-logs.json"
+        },
+        {
+          "name": "Route Optimization Models",
+          "link": "/datasets/tech/cargofin-routing-models.zip"
+        }
+      ],
+      "publications": [
+        {
+          "title": "Autonomous Maritime Logistics",
+          "authors": ["K. Desai", "M. Shankar"],
+          "year": 2025,
+          "link": "https://doi.org/10.1234/marine.cargofin.ai"
+        },
+        {
+          "title": "Fuel Efficiency in Autonomous Vessels",
+          "authors": ["N. Verma", "A. Rao"],
+          "year": 2024,
+          "link": "https://journals.oceaneng/autonomous-fuel"
+        }
+      ]
+    },
+    {
+      "slug": "portgrid",
+      "title": "PortGrid",
+      "subtitle": "Smart robotic ports equipped with thermal imaging, AI-based scheduling, automated unloading arms, and customs automation systems.",
+      "image": "portgrid.png",
+      "overview": "PortGrid redefines port infrastructure with robotics, thermal sensors, and AI coordination. Designed for high-throughput maritime logistics, PortGrid ensures fast, safe, and traceable vessel docking, unloading, and inspection with minimal human involvement.",
+      "why": "Conventional ports face challenges in efficiency, labor shortages, and inspection delays. PortGrid brings automation, safety, and intelligence to port operations—reducing congestion and increasing throughput while enhancing security and traceability.",
+      "usedIn": [
+        {
+          "title": "Autonomous Unloading",
+          "desc": "Robotic arms automatically offload cargo from vessels onto smart conveyor and cold-chain systems."
+        },
+        {
+          "title": "Thermal Inspection",
+          "desc": "Infrared scanning is used to monitor cargo temperature and detect anomalies in real time."
+        },
+        {
+          "title": "Digital Customs Clearance",
+          "desc": "Documents and inspections are handled through AI-based validation, expediting port turnaround time."
+        }
+      ],
+      "benefits": [
+        {
+          "title": "Faster Turnaround",
+          "desc": "Significantly reduces vessel idle time with automated operations and parallel processing."
+        },
+        {
+          "title": "Enhanced Security",
+          "desc": "Thermal and visual AI surveillance helps detect suspicious cargo or safety violations early."
+        },
+        {
+          "title": "Paperless Operations",
+          "desc": "Integrates seamlessly with SeaLedger for smart contracts, digital signatures, and compliance logs."
+        }
+      ],
+      "impact": "PortGrid introduces a future-ready model for maritime ports by automating the most labor-intensive and delay-prone activities. With its robotics stack and AI systems, it enhances safety, traceability, and efficiency, enabling high-volume trade without bottlenecks.",
+      "media": [
+        "portgrid-terminal.gif",
+        "automated-port-arm.jpg",
+        "customs-dashboard.png"
+      ],
+      "applications": [
+        "Cold-chain cargo handling",
+        "Digital port clearance",
+        "Automated inspection zones",
+        "Real-time customs dashboards"
+      ],
+      "metrics": {
+        "throughputImprovement": "30%+ increase in daily cargo processed",
+        "laborReduction": "Up to 70% reduction in manual unloading",
+        "clearanceTime": "50% faster customs processing",
+        "surveillanceAccuracy": "High-accuracy anomaly detection via thermal AI"
+      },
+      "datasets": [
+        {
+          "name": "Thermal Cargo Logs",
+          "link": "/datasets/portgrid/thermal-logs-2024.json"
+        },
+        {
+          "name": "PortGrid Robotic Metrics",
+          "link": "/datasets/portgrid/ops-metrics.csv"
+        }
+      ],
+      "publications": [
+        {
+          "title": "Smart Port Automation with PortGrid Systems",
+          "authors": ["A. Rajan", "L. Fernandez"],
+          "year": 2023,
+          "link": "https://doi.org/10.5678/portgrid.smartport.ai"
+        },
+        {
+          "title": "Thermal AI for Maritime Surveillance",
+          "authors": ["S. Noor", "M. Karthik"],
+          "year": 2024,
+          "link": "https://oceanai.org/publications/thermal-surveillance"
+        }
+      ]
+    },
+    {
+      "slug": "portgrid",
+      "title": "PortGrid",
+      "subtitle": "Smart robotic ports equipped with thermal imaging, AI-based scheduling, automated unloading arms, and customs automation systems.",
+      "image": "portgrid.png",
+      "overview": "PortGrid redefines port infrastructure with robotics, thermal sensors, and AI coordination. Designed for high-throughput maritime logistics, PortGrid ensures fast, safe, and traceable vessel docking, unloading, and inspection with minimal human involvement.",
+      "why": "Conventional ports face challenges in efficiency, labor shortages, and inspection delays. PortGrid brings automation, safety, and intelligence to port operations—reducing congestion and increasing throughput while enhancing security and traceability.",
+      "usedIn": [
+        {
+          "title": "Autonomous Unloading",
+          "desc": "Robotic arms automatically offload cargo from vessels onto smart conveyor and cold-chain systems."
+        },
+        {
+          "title": "Thermal Inspection",
+          "desc": "Infrared scanning is used to monitor cargo temperature and detect anomalies in real time."
+        },
+        {
+          "title": "Digital Customs Clearance",
+          "desc": "Documents and inspections are handled through AI-based validation, expediting port turnaround time."
+        }
+      ],
+      "benefits": [
+        {
+          "title": "Faster Turnaround",
+          "desc": "Significantly reduces vessel idle time with automated operations and parallel processing."
+        },
+        {
+          "title": "Enhanced Security",
+          "desc": "Thermal and visual AI surveillance helps detect suspicious cargo or safety violations early."
+        },
+        {
+          "title": "Paperless Operations",
+          "desc": "Integrates seamlessly with SeaLedger for smart contracts, digital signatures, and compliance logs."
+        }
+      ],
+      "impact": "PortGrid introduces a future-ready model for maritime ports by automating the most labor-intensive and delay-prone activities. With its robotics stack and AI systems, it enhances safety, traceability, and efficiency, enabling high-volume trade without bottlenecks.",
+      "media": [
+        "portgrid-terminal.gif",
+        "automated-port-arm.jpg",
+        "customs-dashboard.png"
+      ],
+      "applications": [
+        "Cold-chain cargo handling",
+        "Digital port clearance",
+        "Automated inspection zones",
+        "Real-time customs dashboards"
+      ],
+      "metrics": {
+        "throughputImprovement": "30%+ increase in daily cargo processed",
+        "laborReduction": "Up to 70% reduction in manual unloading",
+        "clearanceTime": "50% faster customs processing",
+        "surveillanceAccuracy": "High-accuracy anomaly detection via thermal AI"
+      },
+      "datasets": [
+        {
+          "name": "Thermal Cargo Logs",
+          "link": "/datasets/portgrid/thermal-logs-2024.json"
+        },
+        {
+          "name": "PortGrid Robotic Metrics",
+          "link": "/datasets/portgrid/ops-metrics.csv"
+        }
+      ],
+      "publications": [
+        {
+          "title": "Smart Port Automation with PortGrid Systems",
+          "authors": ["A. Rajan", "L. Fernandez"],
+          "year": 2023,
+          "link": "https://doi.org/10.5678/portgrid.smartport.ai"
+        },
+        {
+          "title": "Thermal AI for Maritime Surveillance",
+          "authors": ["S. Noor", "M. Karthik"],
+          "year": 2024,
+          "link": "https://oceanai.org/publications/thermal-surveillance"
+        }
+      ]
+    },
+    
+    {
+      "slug": "dropnet",
+      "title": "DropNet",
+      "subtitle": "Autonomous aerial drones for port-to-vessel, offshore, and island supply chain delivery.",
+      "image": "dropnet.png",
+      "overview": "DropNet is an autonomous drone logistics system designed to handle short-range maritime deliveries across ports, anchored vessels, and island communities. It reduces dependency on small boats and manual handling, improving speed, safety, and efficiency.",
+      "why": "Traditional last-mile delivery to ships or remote marine areas involves delays, fuel usage, and labor risks. DropNet automates these tasks with precision drone drops, enabling real-time supply, documentation exchange, and urgent cargo movement without vessel dispatch.",
+      "usedIn": [
+        {
+          "title": "Port-to-Ship Delivery",
+          "desc": "Send tools, documents, or samples directly to anchored ships without launch boats."
+        },
+        {
+          "title": "Island Community Supply",
+          "desc": "Ensure time-sensitive medicine or materials reach small islands where ferry schedules are unreliable."
+        },
+        {
+          "title": "Emergency Logistics",
+          "desc": "Rapid deployment of emergency kits or technical parts to sea-based crews or responders."
+        }
+      ],
+      "benefits": [
+        {
+          "title": "Zero Docking Required",
+          "desc": "Delivery without vessel mooring—reducing port congestion and saving time."
+        },
+        {
+          "title": "Contactless & Safe",
+          "desc": "Minimizes human interaction, ideal for sensitive, medical, or secure items."
+        },
+        {
+          "title": "Fleet Coordinated",
+          "desc": "Can operate in swarms for simultaneous multi-location drops with centralized mission control."
+        }
+      ],
+      "impact": "DropNet redefines marine logistics by enabling aerial cargo delivery in previously underserved or high-friction routes. From critical parts to compliance documents, DropNet ensures just-in-time delivery over water, boosting operational uptime and reducing cost.",
+      "media": [
+        "dropnet-delivery.gif",
+        "drone-over-ocean.jpg",
+        "port-to-ship-drop.png"
+      ],
+      "applications": [
+        "Ship resupply and paperwork exchange",
+        "Island medical logistics",
+        "Offshore wind/oil platform support",
+        "Fishing fleet restocking"
+      ],
+      "metrics": {
+        "deliveryRange": "Up to 20 km per drone sortie",
+        "timeSavings": "85% faster than boat delivery",
+        "crewContactReduction": "100% contactless handoff",
+        "costReduction": "40–60% cost savings per kg delivered"
+      },
+      "datasets": [
+        {
+          "name": "DropNet Flight Logs",
+          "link": "/datasets/dropnet/flight-history.json"
+        },
+        {
+          "name": "Island Delivery Missions",
+          "link": "/datasets/dropnet/island-missions-2023.zip"
+        }
+      ],
+      "publications": [
+        {
+          "title": "Autonomous Aerial Logistics for Maritime Supply",
+          "authors": ["P. Krishnan", "N. Varghese"],
+          "year": 2024,
+          "link": "https://doi.org/10.4321/dropnet.marine.delivery"
+        },
+        {
+          "title": "Drone-Based Port Logistics Innovation",
+          "authors": ["R. Mani", "L. Chao"],
+          "year": 2023,
+          "link": "https://marinetechjournal.org/dropnet-study"
+        }
+      ]
+    },
+    {
+      "slug": "oceaniq",
+      "title": "OceanIQ",
+      "subtitle": "Distributed sensor mesh for weather, fish density, ocean route optimization, and ecological alerts.",
+      "image": "oceaniq.png",
+      "overview": "OceanIQ is a real-time ocean sensing system composed of smart buoys, AUVs, and data relays. It collects environmental signals—temperature, salinity, fish movements, weather anomalies—and feeds them into adaptive AI models for optimized marine decision-making.",
+      "why": "Marine stakeholders often lack reliable real-time ocean intelligence. OceanIQ solves this by combining dense sensing networks with predictive analytics to improve routing, safety, and sustainability at sea.",
+      "usedIn": [
+        {
+          "title": "Route Optimization",
+          "desc": "Live data streams inform optimal vessel routing for efficiency and reduced fuel use."
+        },
+        {
+          "title": "Fisheries Guidance",
+          "desc": "Detects high-density fish movement patterns and relays predictive catch zones."
+        },
+        {
+          "title": "Hazard Detection",
+          "desc": "Early warnings for weather shifts, rogue waves, and ecological disturbances."
+        }
+      ],
+      "benefits": [
+        {
+          "title": "Real-Time Alerts",
+          "desc": "Captains and fleet managers receive alerts for storms, jellyfish swarms, or turbidity zones."
+        },
+        {
+          "title": "Fuel & Emission Savings",
+          "desc": "Smart routing reduces unnecessary miles traveled and emissions output."
+        },
+        {
+          "title": "Improved Yield Accuracy",
+          "desc": "Fishers can pre-plan based on predicted stock movement and ocean conditions."
+        }
+      ],
+      "impact": "OceanIQ bridges the data gap in open waters, transforming marine operations from reactive to proactive. It empowers smarter harvesting, reduces risk, and enables coordinated action across fleets based on verified ocean data.",
+      "media": [
+        "oceaniq-sensors.jpg",
+        "buoy-grid-map.gif",
+        "vessel-routing-optimized.png"
+      ],
+      "applications": [
+        "Smart navigation & fuel planning",
+        "Fisheries forecasting",
+        "Climate change monitoring",
+        "Marine protected area surveillance"
+      ],
+      "metrics": {
+        "alertAccuracy": "92% prediction accuracy for major weather disruptions",
+        "fuelSavings": "Up to 12% average per trip",
+        "fishDetectionRate": "80%+ correlation with actual catch zones",
+        "coverageDensity": "1 sensor per 5 nautical miles"
+      },
+      "datasets": [
+        {
+          "name": "OceanIQ Sensor Logs",
+          "link": "/datasets/oceaniq/sensor-logs-2024.json"
+        },
+        {
+          "name": "Route Efficiency Maps",
+          "link": "/datasets/oceaniq/route-optimizer.zip"
+        }
+      ],
+      "publications": [
+        {
+          "title": "AI-Driven Ocean Route Optimization Using Sensor Meshes",
+          "authors": ["D. Arvind", "L. Menon"],
+          "year": 2024,
+          "link": "https://doi.org/10.1093/oceaniq-routing.ai"
+        },
+        {
+          "title": "Marine Condition Forecasting Through Distributed Buoy Networks",
+          "authors": ["V. Thomas", "R. Iqbal"],
+          "year": 2023,
+          "link": "https://bluejournal.io/oceaniq-forecasting"
+        }
+      ]
+    },
+    {
+      "slug": "ecovault",
+      "title": "EcoVault",
+      "subtitle": "Unified ESG accounting engine for carbon, plastic, biodiversity, and bycatch in marine operations.",
+      "image": "ecovault.png",
+      "overview": "EcoVault brings environmental accountability to the forefront of seafood and ocean logistics. It tracks emissions, plastic usage, bycatch events, and biodiversity impacts across the entire supply chain—providing verifiable ESG metrics for certification, audits, and sustainability reports.",
+      "why": "Regulators, consumers, and partners demand transparent ESG data. However, most ocean industries lack a systematic way to log and report impact. EcoVault fills that gap by integrating sensors, manual reports, and AI-based inference to deliver dynamic environmental scores.",
+      "usedIn": [
+        {
+          "title": "Bycatch & Biodiversity Logging",
+          "desc": "Records non-target species caught and biodiversity interactions using AI-classified images and manual input."
+        },
+        {
+          "title": "Carbon & Fuel Tracking",
+          "desc": "Calculates CO₂ emissions per trip based on fuel logs, vessel type, and sensor inputs."
+        },
+        {
+          "title": "Plastic Use & Disposal",
+          "desc": "Logs plastic usage per unit of seafood processed, and tracks waste disposal or reuse paths."
+        }
+      ],
+      "benefits": [
+        {
+          "title": "Regulatory Alignment",
+          "desc": "Meets MARPOL Annex V, SDG targets, and regional sustainability mandates."
+        },
+        {
+          "title": "Supply Chain Scoring",
+          "desc": "Applies a dynamic ESG score to each consignment, visible to buyers and certifiers."
+        },
+        {
+          "title": "Audit-Ready Reports",
+          "desc": "Generates reports for NGOs, government audits, and sustainability certifications."
+        }
+      ],
+      "impact": "EcoVault has enabled fleets and processors to quantify their environmental impact for the first time—helping unlock green financing, certification, and improved market access. By making ESG data verifiable and digital, it transforms compliance into opportunity.",
+      "media": [
+        "ecovault-dashboard.png",
+        "bycatch-logging-ui.jpg",
+        "carbon-plastic-metrics.gif"
+      ],
+      "applications": [
+        "Green seafood certification",
+        "Plastic traceability",
+        "Sustainable supply chain labeling",
+        "Regulatory compliance dashboards"
+      ],
+      "metrics": {
+        "plasticTrackingCoverage": "95% of packaging and processing waste accounted",
+        "carbonAccuracy": "±5% margin in trip-based emissions estimates",
+        "biodiversityAuditSupport": "Enabled for 70+ species groups",
+        "ESGReportGeneration": "Auto-published monthly ESG summaries"
+      },
+      "datasets": [
+        {
+          "name": "EcoVault ESG Logs",
+          "link": "/datasets/ecovault/esg-daily-logs.csv"
+        },
+        {
+          "name": "Carbon & Plastic Dashboard",
+          "link": "/datasets/ecovault/dashboard-demo.zip"
+        }
+      ],
+      "publications": [
+        {
+          "title": "ESG Metrics for Marine Supply Chains",
+          "authors": ["K. Nair", "M. Fernandez"],
+          "year": 2024,
+          "link": "https://maritimesustainability.org/ecovault-esg"
+        },
+        {
+          "title": "Tracking Plastic Use in Ocean Logistics",
+          "authors": ["A. Singh", "J. Rao"],
+          "year": 2023,
+          "link": "https://bluejournal.io/plastic-trace-ecovault"
+        }
+      ]
+    },
+    {
+      "slug": "bluetwin",
+      "title": "BlueTwin",
+      "subtitle": "Digital twin simulations of ocean environments for operations, planning, and resilience testing.",
+      "image": "bluetwin.png",
+      "overview": "BlueTwin replicates real-time and forecasted marine conditions using digital twins of ports, vessels, and ecosystems. This enables planning, testing, and optimization of maritime operations, infrastructure layouts, and environmental interventions—before they are deployed physically.",
+      "why": "Maritime operations suffer from unpredictable variables like weather, tides, and human error. BlueTwin allows stakeholders to simulate scenarios, test resilience, and plan layouts virtually. It reduces risk and increases confidence in mission-critical decisions.",
+      "usedIn": [
+        {
+          "title": "Port Layout & Flow Simulation",
+          "desc": "Simulates port traffic, vessel docking, and cargo handling to optimize throughput and safety."
+        },
+        {
+          "title": "Climate Resilience Forecasting",
+          "desc": "Models rising sea levels, storm surge, and ecosystem impact under various climate scenarios."
+        },
+        {
+          "title": "Drone & Robot Mission Testing",
+          "desc": "Allows teams to test drone navigation, inspection routes, and fallback behaviors virtually."
+        }
+      ],
+      "benefits": [
+        {
+          "title": "Mission Confidence",
+          "desc": "Simulated environments reduce uncertainty and error in high-risk deployments."
+        },
+        {
+          "title": "Resilience-by-Design",
+          "desc": "Future-proofs infrastructure and systems by testing stress responses."
+        },
+        {
+          "title": "Stakeholder Collaboration",
+          "desc": "Shared simulations improve decision-making among regulators, planners, and operators."
+        }
+      ],
+      "impact": "BlueTwin has been instrumental in modernizing port design, mission planning, and environmental modeling. It bridges the gap between data and action, enabling better outcomes across operational, regulatory, and ecological dimensions.",
+      "media": [
+        "bluetwin-sim-port.png",
+        "climate-twin-forecast.jpg",
+        "robot-path-sim.gif"
+      ],
+      "applications": [
+        "Smart port development",
+        "Environmental impact modeling",
+        "Confined space inspection planning",
+        "Resilience planning for fleets"
+      ],
+      "metrics": {
+        "simulationAccuracy": "90%+ alignment with real-world conditions",
+        "deploymentCostReduction": "Up to 30% cost savings from pre-simulation",
+        "planningTimeSaved": "2x faster operational planning cycles",
+        "resilienceModelsBuilt": "50+ climate and logistics models deployed"
+      },
+      "datasets": [
+        {
+          "name": "Port Simulation Datasets",
+          "link": "/datasets/bluetwin/port-models-2024.zip"
+        },
+        {
+          "name": "Climate Twin Inputs",
+          "link": "/datasets/bluetwin/climate-inputs.json"
+        }
+      ],
+      "publications": [
+        {
+          "title": "Digital Twins in Ocean Infrastructure Planning",
+          "authors": ["V. Rajan", "L. Desai"],
+          "year": 2024,
+          "link": "https://oceanai.org/publications/bluetwin-ports"
+        },
+        {
+          "title": "Simulating Autonomous Missions at Sea",
+          "authors": ["N. Ahmed", "R. George"],
+          "year": 2023,
+          "link": "https://journals.maritimerobotics/bluetwin-missions"
+        }
+      ]
+    },
+    {
+      "slug": "horizonai",
+      "title": "HorizonAI",
+      "subtitle": "Predictive AI for ocean futures based on biology, climate, trade, and policy trends.",
+      "image": "horizonai.png",
+      "overview": "HorizonAI analyzes multi-source ocean data—biological, climatic, economic, and regulatory—to model future marine scenarios. It supports strategic decision-making across supply chains, climate risk planning, and sustainability forecasting.",
+      "why": "Ocean systems are influenced by shifting policies, environmental change, and market forces. Traditional tools cannot model such complex interdependencies. HorizonAI uses machine learning to forecast risks, yields, and disruptions before they occur.",
+      "usedIn": [
+        {
+          "title": "Marine Trade Forecasting",
+          "desc": "Analyzes trade routes, demand shifts, and geopolitical factors to predict seafood logistics flows."
+        },
+        {
+          "title": "Biodiversity & Yield Modeling",
+          "desc": "Predicts seasonal yield changes based on ocean temperature, salinity, and migration patterns."
+        },
+        {
+          "title": "Climate Risk Alerts",
+          "desc": "AI generates alerts for extreme weather, bleaching events, or temperature anomalies."
+        }
+      ],
+      "benefits": [
+        {
+          "title": "Forward-Looking Strategy",
+          "desc": "Enables long-term supply chain and port operations planning with predictive clarity."
+        },
+        {
+          "title": "Early Warning System",
+          "desc": "Stakeholders get days to weeks of lead time on critical anomalies or changes."
+        },
+        {
+          "title": "Cross-Domain Intelligence",
+          "desc": "Combines environmental, regulatory, and commercial data to generate holistic insight."
+        }
+      ],
+      "impact": "HorizonAI is a strategic engine for the Blue Economy. From helping ports schedule smarter to enabling fleets to reroute early and businesses to adjust sourcing—this AI system injects foresight into a traditionally reactive domain.",
+      "media": [
+        "horizonai-dashboard.png",
+        "forecast-paths.gif",
+        "climate-yield-map.jpg"
+      ],
+      "applications": [
+        "Seafood risk and pricing strategy",
+        "Regulatory compliance projection",
+        "Maritime insurance modeling",
+        "Ocean climate adaptation plans"
+      ],
+      "metrics": {
+        "forecastAccuracy": "85–92% seasonal pattern prediction accuracy",
+        "alertLeadTime": "Up to 10 days before anomaly",
+        "dataSources": "50+ environmental and trade data APIs integrated",
+        "businessImpact": "20% reduction in logistics disruptions (pilot)"
+      },
+      "datasets": [
+        {
+          "name": "Ocean Forecast Models",
+          "link": "/datasets/horizonai/ocean-forecasts-2025.json"
+        },
+        {
+          "name": "Policy & Trade Index",
+          "link": "/datasets/horizonai/policy-index.csv"
+        }
+      ],
+      "publications": [
+        {
+          "title": "Forecasting Ocean Change Using AI",
+          "authors": ["K. Narayan", "P. Das"],
+          "year": 2024,
+          "link": "https://doi.org/10.1145/horizonai.oceanforecast"
+        },
+        {
+          "title": "Integrating Climate and Market Signals for Seafood Supply Chains",
+          "authors": ["M. Shankar", "A. Bhatt"],
+          "year": 2023,
+          "link": "https://oceanfuture.tech/journals/horizonai-climate"
+        }
+      ]
+    },
+    {
+      "slug": "sealedger",
+      "title": "SeaLedger",
+      "subtitle": "Tamper-proof blockchain ledger for catch, transit, inspection, and trade documentation.",
+      "image": "sealedger.png",
+      "overview": "SeaLedger is a decentralized system that records every event in the seafood lifecycle—from catch and onboard logging to inspection, transit, and sale. It ensures transparency, regulatory compliance, and buyer confidence with cryptographic security.",
+      "why": "Paper-based records and isolated systems lead to fraud, delays, and regulatory violations. SeaLedger provides a unified, immutable source of truth that can be verified by all stakeholders in the supply chain.",
+      "usedIn": [
+        {
+          "title": "Catch Certification",
+          "desc": "Every fish batch is logged on-chain with origin, species, and quota information."
+        },
+        {
+          "title": "Digital Trade Documents",
+          "desc": "Export certificates, invoices, and inspection reports are signed and stored immutably."
+        },
+        {
+          "title": "Customs & Port Clearance",
+          "desc": "Port authorities use SeaLedger to instantly verify documentation and vessel logs."
+        }
+      ],
+      "benefits": [
+        {
+          "title": "Immutable Records",
+          "desc": "All events are logged on a tamper-proof blockchain ledger with cryptographic integrity."
+        },
+        {
+          "title": "Multi-Stakeholder Access",
+          "desc": "Buyers, regulators, and logistics partners access the same verified records in real time."
+        },
+        {
+          "title": "Fraud Elimination",
+          "desc": "Prevents data manipulation and ghost fishing declarations with on-chain enforcement."
+        }
+      ],
+      "impact": "SeaLedger transforms trust in ocean commerce. With instant traceability and proof of compliance, it reduces customs delays, enables trade finance, and unlocks new markets for verified sustainable seafood.",
+      "media": [
+        "sealedger-interface.png",
+        "inspection-record-flow.gif",
+        "document-validation.jpg"
+      ],
+      "applications": [
+        "Certified seafood export",
+        "MARPOL & IUU compliance audit",
+        "Digital inspection & customs clearing",
+        "Smart contracts for marine trade"
+      ],
+      "metrics": {
+        "docsVerified": "1.2M+ digital trade documents issued",
+        "clearanceTime": "Reduced port clearance by 3–5 days",
+        "dataIntegrity": "100% tamper-proof record validation",
+        "adoption": "Used by 10+ port authorities and exporters"
+      },
+      "datasets": [
+        {
+          "name": "Catch Logs & Certificates",
+          "link": "/datasets/sealedger/catch-ledger-2025.csv"
+        },
+        {
+          "name": "Smart Contract Templates",
+          "link": "/datasets/sealedger/contracts-v2.json"
+        }
+      ],
+      "publications": [
+        {
+          "title": "Blockchain for Maritime Supply Chain Integrity",
+          "authors": ["V. Subramanian", "A. Kapoor"],
+          "year": 2024,
+          "link": "https://maritimesystems.org/papers/sealedger"
+        },
+        {
+          "title": "SeaLedger: Distributed Ledgers for Ocean Trade",
+          "authors": ["J. Rao", "L. Mani"],
+          "year": 2023,
+          "link": "https://oceanledgers.tech/journal/volume2"
+        }
+      ]
+    },
+    
+    {
+      "slug": "regnet",
+      "title": "RegNet",
+      "subtitle": "AI-powered regulatory intelligence for real-time compliance in maritime operations.",
+      "image": "regnet.png",
+      "overview": "RegNet is an AI engine designed to interpret complex maritime regulations and validate operational actions in real time. It reduces human error, accelerates inspections, and ensures ongoing alignment with global standards like MARPOL, SOLAS, and IACS UR E26/E27.",
+      "why": "Manual compliance checks are time-consuming and inconsistent. Regulatory interpretations vary by country, port, and inspector. RegNet standardizes this process using AI, ensuring instant validation and reducing audit friction.",
+      "usedIn": [
+        {
+          "title": "Onboard Compliance Monitoring",
+          "desc": "RegNet continuously checks operational logs and sensor data against applicable regulations."
+        },
+        {
+          "title": "Automated Audit Reports",
+          "desc": "Generates formatted compliance reports for submission to port authorities and regulators."
+        },
+        {
+          "title": "Digital SOP Validation",
+          "desc": "Validates that standard operating procedures (SOPs) match required regulatory frameworks."
+        }
+      ],
+      "benefits": [
+        {
+          "title": "Real-Time Compliance",
+          "desc": "Ensures every process and data point aligns with evolving maritime regulations."
+        },
+        {
+          "title": "Reduced Inspection Overhead",
+          "desc": "Minimizes manual audits by providing instant digital validation and logs."
+        },
+        {
+          "title": "Global Rule Engine",
+          "desc": "Supports cross-jurisdictional compliance logic with multi-country regulatory knowledge base."
+        }
+      ],
+      "impact": "RegNet significantly reduces compliance risk for operators and improves transparency across maritime operations. It also enables faster port clearances, fewer penalties, and stronger trust with regulatory bodies and insurers.",
+      "media": [
+        "regnet-dashboard.png",
+        "ai-law-mapping.jpg"
+      ],
+      "applications": [
+        "Real-time onboard validation",
+        "Automated flag-state audit readiness",
+        "Integration with e-logbooks and SeaLedger"
+      ],
+      "metrics": {
+        "complianceAccuracy": "99.2% rule interpretation match",
+        "auditTimeReduction": "60% decrease in manual inspection time",
+        "regulationCoverage": "Over 40+ global maritime rule sets"
+      },
+      "datasets": [
+        {
+          "name": "Global Maritime Rule Index",
+          "link": "/datasets/regnet/rules-index-2024.json"
+        }
+      ],
+      "publications": [
+        {
+          "title": "AI for Maritime Law Enforcement",
+          "authors": ["L. Fernando", "N. Subramanian"],
+          "year": 2023,
+          "link": "https://doi.org/10.4321/regnet.ai.compliance"
+        }
+      ]
+    },
+    {
+      "slug": "fleet-compliance-iot",
+      "title": "Fleet & Compliance IoT",
+      "subtitle": "Smart onboard systems to monitor vessel activity, catch capacity, fuel usage, and regulatory compliance in real-time.",
+      "image": "fleet_compliance_iot.png",
+      "overview": "Fleet & Compliance IoT enables seamless monitoring of vessel movement, onboard conditions, catch reporting, and environmental parameters. This system ensures compliance with maritime laws while optimizing fleet performance and operational transparency.",
+      "why": "Without IoT systems, fleet monitoring is reactive, delayed, and often inaccurate. Our IoT network automates compliance documentation, enables predictive maintenance, and provides real-time insights into operations at sea.",
+      "usedIn": [
+        {
+          "title": "Catch & Trip Logging",
+          "desc": "Automatically logs catch weight, coordinates, and duration per trip for traceability."
+        },
+        {
+          "title": "Fuel & Emissions Tracking",
+          "desc": "Sensors track fuel efficiency, emissions, and provide alerts for optimization."
+        },
+        {
+          "title": "Compliance Verification",
+          "desc": "Continuous syncing with SeaLedger and RegNet for real-time rule enforcement and audits."
+        }
+      ],
+      "benefits": [
+        {
+          "title": "Real-Time Oversight",
+          "desc": "Track vessel activity from port to sea in real-time with geo-tagged updates."
+        },
+        {
+          "title": "Reduced Non-Compliance Risk",
+          "desc": "Automated alerts ensure adherence to quotas, routes, and environmental regulations."
+        },
+        {
+          "title": "Integrated Data Pipeline",
+          "desc": "Feeds into Control Hub, RegNet, and EcoVault for unified compliance and analytics."
+        }
+      ],
+      "impact": "Fleet & Compliance IoT transforms maritime oversight by digitizing catch and voyage records, reducing illegal practices, and enhancing overall fleet sustainability. It also minimizes paperwork and audit failures by maintaining an always-synced digital logbook.",
+      "media": [
+        "fleet-tracker-dashboard.jpg",
+        "compliance-map-overlay.gif",
+        "sensor-nodes-vessel.png"
+      ],
+      "applications": [
+        "Fleet monitoring and compliance",
+        "Catch certificate automation",
+        "Fuel/emissions optimization",
+        "Digital audit preparation"
+      ],
+      "metrics": {
+        "complianceAccuracy": "98%+ real-time quota validation",
+        "reportingDelayReduction": "90% faster compliance reporting",
+        "fuelOptimization": "Up to 12% reduced fuel use",
+        "coverage": "Active on 120+ vessels"
+      },
+      "datasets": [
+        {
+          "name": "Fleet Trip Logs",
+          "link": "/datasets/fleet/trip-logs-2024.json"
+        },
+        {
+          "name": "IoT Sensor Outputs",
+          "link": "/datasets/fleet/sensor-data.csv"
+        }
+      ],
+      "publications": [
+        {
+          "title": "IoT in Maritime Compliance Enforcement",
+          "authors": ["N. Bhaskar", "A. Devi"],
+          "year": 2024,
+          "link": "https://marineiotjournal.org/fleet-compliance"
+        },
+        {
+          "title": "Reducing Fuel Waste in Coastal Fleets",
+          "authors": ["M. Roy", "T. George"],
+          "year": 2023,
+          "link": "https://journals.navsys/fuel-iot-study"
+        }
+      ]
+    },
+    {
+      "slug": "cold-chain-intelligence",
+      "title": "Cold Chain Intelligence",
+      "subtitle": "Smart reefer systems and sensor-driven monitoring for preserving seafood quality and ensuring regulatory cold chain compliance.",
+      "image": "cold_chain_intelligence.png",
+      "overview": "Cold Chain Intelligence brings precision to temperature-sensitive logistics. Our system monitors, logs, and alerts across every stage of seafood handling—from dockside chillers to last-mile delivery. Integrated with Aazhimin's traceability engine, it ensures cold integrity from sea to shelf.",
+      "why": "Inconsistent temperatures during transport can lead to spoilage, rejections, and brand damage. Manual checks are error-prone. Smart cold chain tech eliminates uncertainty and proves quality during audits or disputes.",
+      "usedIn": [
+        {
+          "title": "Reefer Truck Monitoring",
+          "desc": "Real-time temperature and humidity logs synced to Control Hub and buyer portals."
+        },
+        {
+          "title": "Cold Room Optimization",
+          "desc": "Automated alerts for deviations, door openings, and asset utilization patterns."
+        },
+        {
+          "title": "Consumer-facing Trace Proof",
+          "desc": "QR codes link to full cold chain history, building trust and transparency."
+        }
+      ],
+      "benefits": [
+        {
+          "title": "Fewer Spoilage Incidents",
+          "desc": "Proactive alerts reduce cold chain breakage and improve delivery quality."
+        },
+        {
+          "title": "Traceable Storage Compliance",
+          "desc": "Compliant with FSSAI, HACCP, and export documentation standards."
+        },
+        {
+          "title": "Brand Integrity Assurance",
+          "desc": "Retailers and consumers get verified proof of temperature integrity."
+        }
+      ],
+      "impact": "Cold Chain Intelligence minimizes rejections, preserves freshness, and proves compliance across global markets. It also cuts energy usage by optimizing reefer loads and improves route decisions through temperature-aware logistics.",
+      "media": [
+        "coldchain-dashboard.jpg",
+        "reefer-truck-sensors.png",
+        "consumer-qrcode-temperature.gif"
+      ],
+      "applications": [
+        "Export shipment monitoring",
+        "Retail cold storage traceability",
+        "Route planning for sensitive cargo",
+        "Smart alerts and documentation"
+      ],
+      "metrics": {
+        "spoilageReduction": "75% reduction in rejected deliveries",
+        "deliveryFreshness": "98% on-time cold-compliant arrivals",
+        "alertResponseTime": "Within 3 minutes for deviation",
+        "tempAccuracy": "±0.2°C tracking across fleet"
+      },
+      "datasets": [
+        {
+          "name": "Cold Chain Log Archive",
+          "link": "/datasets/cold-chain/logs-2024.zip"
+        },
+        {
+          "name": "Alert Events & Compliance Reports",
+          "link": "/datasets/cold-chain/alerts-reports.csv"
+        }
+      ],
+      "publications": [
+        {
+          "title": "Digitizing Seafood Cold Chains in Coastal India",
+          "authors": ["S. Dhanush", "K. Pillai"],
+          "year": 2024,
+          "link": "https://coldchainjournal.org/aazhimin-deployment"
+        },
+        {
+          "title": "IoT-based HACCP Compliance in Seafood Logistics",
+          "authors": ["T. Ameer", "G. Murthy"],
+          "year": 2023,
+          "link": "https://journals.fishtech/iot-haccp-study"
+        }
+      ]
+    },
+    {
+      "slug": "weighing-sorting",
+      "title": "Smart Weighing & Sorting",
+      "subtitle": "Automated grading and sorting systems for seafood based on size, species, and weight — improving speed, precision, and yield.",
+      "image": "smart_weighing_sorting.png",
+      "overview": "Smart Weighing & Sorting automates the classification of seafood at landing and processing centers. Using computer vision and integrated scales, the system rapidly categorizes catch by species, size, and quality for optimized packing, pricing, and compliance.",
+      "why": "Manual sorting is time-consuming, inconsistent, and introduces hygiene risks. Automation ensures uniformity, traceability, and improves worker safety while delivering faster throughput and better inventory control.",
+      "usedIn": [
+        {
+          "title": "Landing Centre Sorting",
+          "desc": "High-speed conveyors and image recognition used to sort catch directly from boats."
+        },
+        {
+          "title": "Processing Plant Integration",
+          "desc": "Integrated with traceability and ERP systems to update yield data in real-time."
+        },
+        {
+          "title": "Auction Lot Standardization",
+          "desc": "Creates uniform lots for digital auctions with verified specs and weights."
+        }
+      ],
+      "benefits": [
+        {
+          "title": "Faster Throughput",
+          "desc": "Processes up to 3x more volume per hour than manual sorting."
+        },
+        {
+          "title": "Consistency & Accuracy",
+          "desc": "Ensures grading matches export specs and buyer expectations."
+        },
+        {
+          "title": "Reduced Human Error",
+          "desc": "Minimizes misclassification and revenue loss from over/under sorting."
+        }
+      ],
+      "impact": "This system has enabled coastal cooperatives and processors to increase their auction revenue by standardizing lots and reducing labor costs. With traceable grading logs, it also supports transparent transactions and data-driven pricing.",
+      "media": [
+        "sorting-line-operation.jpg",
+        "ai-sorting-interface.png",
+        "grading-accuracy-demo.gif"
+      ],
+      "applications": [
+        "Fish landing automation",
+        "Traceable auction lots",
+        "Processing plant optimization",
+        "Quality-based pricing"
+      ],
+      "metrics": {
+        "processingSpeed": "Up to 2.5 tons/hour",
+        "accuracy": "95%+ grading precision",
+        "laborReduction": "40% decrease in manual sorting labor",
+        "yieldImprovement": "12% higher pack-out efficiency"
+      },
+      "datasets": [
+        {
+          "name": "Grading Logs",
+          "link": "/datasets/sorting/grading-logs.csv"
+        },
+        {
+          "name": "Vision AI Training Set",
+          "link": "/datasets/sorting/image-classification.zip"
+        }
+      ],
+      "publications": [
+        {
+          "title": "AI-Driven Sorting in Indian Fish Markets",
+          "authors": ["R. Manohar", "V. Das"],
+          "year": 2023,
+          "link": "https://journals.oceantrade/sorting-ai-paper"
+        },
+        {
+          "title": "Automated Grading Systems for Small-Scale Fisheries",
+          "authors": ["L. Jayan", "S. Rao"],
+          "year": 2024,
+          "link": "https://aazhimin.org/research/weighing-efficiency"
+        }
+      ]
+    },
+    {
+      "slug": "catch-monitoring",
+      "title": "Catch Monitoring Systems",
+      "subtitle": "Real-time onboard systems for logging catch size, species, and location with AI-enabled compliance and transparency.",
+      "image": "catch_monitoring.png",
+      "overview": "Catch Monitoring Systems (CMS) are onboard modules that automate the logging of catch parameters including species type, weight, geolocation, and timestamp. Integrated with fleet IoT and SeaLedger, CMS provides regulators, buyers, and cooperatives with verifiable data directly from sea.",
+      "why": "Manual catch reporting is often delayed, inaccurate, or prone to falsification. CMS ensures transparency, helps with quota enforcement, reduces bycatch, and aligns with national traceability mandates.",
+      "usedIn": [
+        {
+          "title": "Onboard Data Logging",
+          "desc": "Sensors and cameras record catch details as fish are hauled in, tagging data with location and time."
+        },
+        {
+          "title": "Regulatory Quota Alerts",
+          "desc": "Automatically flags when quota limits or protected species are detected during fishing trips."
+        },
+        {
+          "title": "Auction Platform Sync",
+          "desc": "Enables pre-auction registration of verified catch lots with weight and species metadata."
+        }
+      ],
+      "benefits": [
+        {
+          "title": "Regulatory Alignment",
+          "desc": "Supports MARPOL, E27/E26, and traceability compliance."
+        },
+        {
+          "title": "Digital Proof of Catch",
+          "desc": "Creates immutable catch logs tied to SeaLedger blockchain records."
+        },
+        {
+          "title": "Fleet-Wide Insights",
+          "desc": "Helps cooperatives and authorities monitor overall fishing patterns and anomalies."
+        }
+      ],
+      "impact": "Catch Monitoring Systems bring a new era of visibility to marine harvesting. By digitizing what was once informal, CMS enables better stock management, buyer confidence, and ecosystem preservation through informed fishing.",
+      "media": [
+        "onboard-camera-feed.png",
+        "trip-logging-ui.gif",
+        "quota-alert-panel.jpg"
+      ],
+      "applications": [
+        "Real-time fisheries data collection",
+        "Quota and bycatch compliance",
+        "Digital seafood supply chain",
+        "Fleet analytics and planning"
+      ],
+      "metrics": {
+        "speciesDetection": "90%+ classification accuracy",
+        "dataLatency": "< 1 minute from capture to cloud",
+        "complianceImprovement": "30% increase in quota adherence",
+        "buyerTransparency": "80% buyer preference for CMS-verified lots"
+      },
+      "datasets": [
+        {
+          "name": "Catch Log Snapshots",
+          "link": "/datasets/catch/catch-logs-2024.json"
+        },
+        {
+          "name": "Species Detection Model",
+          "link": "/datasets/catch/species-model-weights.pt"
+        }
+      ],
+      "publications": [
+        {
+          "title": "AI-Driven Catch Monitoring in the Indian Ocean",
+          "authors": ["M. Nair", "K. Subramaniam"],
+          "year": 2024,
+          "link": "https://aazhimin.org/research/catch-monitoring-ai"
+        },
+        {
+          "title": "Improving Quota Enforcement with Onboard Vision Systems",
+          "authors": ["L. Fernandes", "D. Pillai"],
+          "year": 2023,
+          "link": "https://journals.maritech/quota-vision-compliance"
+        }
+      ]
+    },
+    {
+      "slug": "control-hub",
+      "title": "Aazhimin Control Hub",
+      "subtitle": "Unified command and intelligence center to monitor inventory, trade, compliance, and supply chain in real-time.",
+      "image": "aazhimin_hub.png",
+      "overview": "The Aazhimin Control Hub acts as a digital nerve center, consolidating data from fleets, ports, logistics, and trade platforms. It provides real-time visibility into seafood operations, automates quality and compliance checks, and enables secure digital trade from harvest to export.",
+      "why": "Fragmented systems lead to data loss, inefficiencies, and compliance risks. Aazhimin Control Hub creates a single source of truth for operations and stakeholders, ensuring transparency, trust, and speed across the marine supply chain.",
+      "usedIn": [
+        {
+          "title": "Fleet & Catch Visibility",
+          "desc": "Live dashboards track vessels, harvest volumes, and compliance metrics as trips unfold."
+        },
+        {
+          "title": "Trade & Quality Management",
+          "desc": "Integrated modules for digital contracts, QC reports, inspection uploads, and buyer coordination."
+        },
+        {
+          "title": "Cold Chain & Dispatch",
+          "desc": "Syncs with reefer units and delivery systems for optimized routing and cold chain assurance."
+        }
+      ],
+      "benefits": [
+        {
+          "title": "End-to-End Traceability",
+          "desc": "Trace any product back to its origin, vessel, and inspection history with one click."
+        },
+        {
+          "title": "Compliance Automation",
+          "desc": "Built-in logic for MARPOL, HACCP, E27/E26 with real-time flags and digital evidence."
+        },
+        {
+          "title": "Trade Acceleration",
+          "desc": "Faster documentation, quality uploads, and payment triggers reduce time-to-market."
+        }
+      ],
+      "impact": "With the Aazhimin Control Hub, seafood businesses gain full operational visibility, reduce regulatory penalties, and unlock new market trust. It redefines how marine commerce is monitored, certified, and scaled globally.",
+      "media": [
+        "control-hub-dashboard.png",
+        "compliance-monitor.gif",
+        "smart-trade-workflow.jpg"
+      ],
+      "applications": [
+        "Fleet control room operations",
+        "Digital seafood trade certification",
+        "Cold chain optimization",
+        "Export readiness automation"
+      ],
+      "metrics": {
+        "complianceUptime": "99.2% regulatory uptime",
+        "reportingSpeed": "85% faster trade documentation",
+        "inventoryAccuracy": "95%+ traceable batch logging",
+        "rejectionReduction": "40% drop in export rejections"
+      },
+      "datasets": [
+        {
+          "name": "Operational Logs - Port Hub",
+          "link": "/datasets/control-hub/port-logs-2024.json"
+        },
+        {
+          "name": "Traceability Chain Map",
+          "link": "/datasets/control-hub/trace-map-v2.png"
+        }
+      ],
+      "publications": [
+        {
+          "title": "Unified Control Systems for Maritime Trade",
+          "authors": ["S. Aravindan", "P. Menon"],
+          "year": 2024,
+          "link": "https://doi.org/10.4825/aazhimin.controlhub.tradelogic"
+        },
+        {
+          "title": "Seafood Compliance Engines in Digital Hubs",
+          "authors": ["R. Varghese"],
+          "year": 2023,
+          "link": "https://journals.maritimesci.org/compliance-engines"
+        }
+      ]
+    },
+    {
+      "slug": "contracts-docs",
+      "title": "Digital Contracts & Docs",
+      "subtitle": "Secure, verifiable, and automated generation of trade contracts, inspection reports, and compliance certificates.",
+      "image": "contracts_docs.png",
+      "overview": "Digital Contracts & Docs transforms paper-heavy processes in seafood trade into streamlined digital workflows. From QC reports to customs declarations, all documents are generated, signed, verified, and shared with cryptographic integrity, enabling global trade agility and compliance.",
+      "why": "Traditional marine trade relies on slow, manual paperwork which leads to errors, delays, and fraud. Aazhimin's system eliminates bottlenecks by digitizing contracts, automating data inputs, and enabling real-time verification across parties and jurisdictions.",
+      "usedIn": [
+        {
+          "title": "B2B Trade Contracts",
+          "desc": "Auto-generated digital MoUs and purchase agreements tied to traceable product lots."
+        },
+        {
+          "title": "Inspection Reports",
+          "desc": "Upload lab, QC, and origin inspection documents; sign and verify through blockchain-backed IDs."
+        },
+        {
+          "title": "Export & Customs Forms",
+          "desc": "Auto-fill templates for customs, E27/E26, and logistics forms for faster cross-border trade."
+        }
+      ],
+      "benefits": [
+        {
+          "title": "Tamper-Proof Integrity",
+          "desc": "Documents are cryptographically signed and verifiable using SeaLedger records."
+        },
+        {
+          "title": "Cross-Stakeholder Access",
+          "desc": "Vessels, processors, regulators, and buyers all access synced documents in real time."
+        },
+        {
+          "title": "Time & Cost Savings",
+          "desc": "Reduces time spent on paperwork by over 60% and prevents manual entry errors."
+        }
+      ],
+      "impact": "Digital Contracts & Docs modernizes maritime documentation with seamless, secure, and standardized workflows. It enables faster trade execution, reduces disputes, and ensures that all compliance checkpoints are met digitally.",
+      "media": [
+        "contracts-interface.png",
+        "digital-signature-flow.gif",
+        "compliance-doc-pack.png"
+      ],
+      "applications": [
+        "Export documentation",
+        "Regulatory form generation",
+        "B2B contract management",
+        "Seafood traceability reporting"
+      ],
+      "metrics": {
+        "contractTurnaround": "70% reduction in time to finalize trade agreements",
+        "documentErrors": "90% fewer errors vs manual",
+        "verifiableDocs": "100% digitally signed records",
+        "customsClearanceTime": "2–3 days faster processing"
+      },
+      "datasets": [
+        {
+          "name": "Sample Export Docs Pack",
+          "link": "/datasets/contracts/sample-export-docs.zip"
+        },
+        {
+          "name": "QC Certificate Templates",
+          "link": "/datasets/contracts/qc-templates.docx"
+        }
+      ],
+      "publications": [
+        {
+          "title": "Digital Documentation in Seafood Trade",
+          "authors": ["D. Joseph", "A. Balakrishnan"],
+          "year": 2024,
+          "link": "https://aazhimin.org/research/digital-trade-docs"
+        },
+        {
+          "title": "Smart Contracts and Supply Chain Trust",
+          "authors": ["T. Fernandes"],
+          "year": 2023,
+          "link": "https://journals.oceanblockchain.org/smart-contracts-trust"
+        }
+      ]
+    },
+    {
+      "slug": "last-mile-delivery",
+      "title": "Last-Mile Delivery",
+      "subtitle": "Smart logistics layer connecting coastal hubs to homes, restaurants, and markets with cold chain integrity.",
+      "image": "last_mile_delivery.png",
+      "overview": "Last-Mile Delivery ensures traceable seafood arrives at its final destination—fresh, safe, and timely. Integrated with our cold chain systems and routing AI, it closes the loop from ocean harvest to doorstep, empowering both B2C and B2B channels.",
+      "why": "Without optimized last-mile delivery, freshness is compromised and logistics costs soar. Aazhimin connects coastal packhouses with urban kitchens using intelligent routing, reefer tracking, and delivery APIs that sync with consumer and buyer platforms.",
+      "usedIn": [
+        {
+          "title": "Urban Seafood Delivery",
+          "desc": "Distributes retail orders from cold hubs to metro households via traceable routes and time slots."
+        },
+        {
+          "title": "HORECA Fulfillment",
+          "desc": "Real-time order tracking and freshness assurance for hotels, restaurants, and institutional kitchens."
+        },
+        {
+          "title": "Hub-to-Hub Transfers",
+          "desc": "Connects coastal cold storages to city-based distribution nodes with optimal route AI."
+        }
+      ],
+      "benefits": [
+        {
+          "title": "Cold Chain Verified",
+          "desc": "Ensures seafood never breaches temperature thresholds across the last mile."
+        },
+        {
+          "title": "Route Optimization",
+          "desc": "AI-based routing reduces fuel cost, delays, and missed deliveries."
+        },
+        {
+          "title": "Customer Experience",
+          "desc": "Buyers receive live updates, delivery slots, and traceability data via mobile."
+        }
+      ],
+      "impact": "By digitizing seafood logistics down to the final leg, Aazhimin ensures freshness, traceability, and efficiency. This boosts buyer trust, reduces waste, and supports premium pricing for verified cold chain compliance.",
+      "media": [
+        "lastmile-routing-map.png",
+        "urban-delivery-fleet.jpg",
+        "coldpack-app-interface.gif"
+      ],
+      "applications": [
+        "Retail seafood fulfillment",
+        "Restaurant procurement",
+        "Reefer fleet route management",
+        "Traceable logistics APIs"
+      ],
+      "metrics": {
+        "deliveryAccuracy": "98% on-time delivery within freshness window",
+        "temperatureBreaches": "Less than 1% incidents",
+        "costReduction": "Up to 18% logistics cost savings",
+        "customerRetention": "30% higher repeat orders"
+      },
+      "datasets": [
+        {
+          "name": "Cold Chain Delivery Logs",
+          "link": "/datasets/logistics/last-mile-logs.csv"
+        },
+        {
+          "name": "Route Optimization Config",
+          "link": "/datasets/logistics/route-config.json"
+        }
+      ],
+      "publications": [
+        {
+          "title": "Smart Logistics in Perishable Marine Supply Chains",
+          "authors": ["N. Menon", "V. Shah"],
+          "year": 2024,
+          "link": "https://doi.org/10.1016/j.oceanlogistics.2024.03.004"
+        },
+        {
+          "title": "Cold Chain Analytics for Seafood",
+          "authors": ["S. Bose"],
+          "year": 2023,
+          "link": "https://coldchainjournal.org/aazhimin-case"
+        }
+      ]
+    },
+    {
+      "slug": "b2b-marketplace",
+      "title": "B2B Marketplace",
+      "subtitle": "Verified digital trading platform for seafood buyers, processors, and suppliers with end-to-end traceability.",
+      "image": "b2b_marketplace.png",
+      "overview": "Aazhimin’s B2B Marketplace enables seafood producers and institutional buyers to trade transparently and efficiently. From real-time inventory listings to trade finance, contract generation, and compliance checks — it offers an integrated ocean commerce engine.",
+      "why": "Traditional seafood trade lacks transparency, trust, and digital efficiency. Our platform addresses these gaps by digitizing orders, verifying certifications, and offering traceable procurement pipelines, accelerating time-to-deal and reducing disputes.",
+      "usedIn": [
+        {
+          "title": "Wholesale Seafood Trade",
+          "desc": "Buyers browse verified listings with digital catch certificates, pricing tiers, and delivery timelines."
+        },
+        {
+          "title": "Processor Sourcing",
+          "desc": "Factories and units can schedule raw material procurement based on forecasted demand and real-time availability."
+        },
+        {
+          "title": "Institutional Contracting",
+          "desc": "Enables contract-based trade between governments, hotels, exporters, and verified harvesters."
+        }
+      ],
+      "benefits": [
+        {
+          "title": "Trust-Enabled Listings",
+          "desc": "Only verified, traceable producers can list on the platform, building buyer confidence."
+        },
+        {
+          "title": "Digital Documentation",
+          "desc": "All deals are automatically documented with smart contracts and compliance checklists."
+        },
+        {
+          "title": "Integrated Payments",
+          "desc": "Optional escrow and digital payment flows available via secure channels."
+        }
+      ],
+      "impact": "The B2B Marketplace shortens the supply chain, increases pricing transparency, reduces procurement overhead, and creates a resilient, verified network of buyers and sellers — accelerating digital transformation in ocean trade.",
+      "media": [
+        "marketplace-ui-demo.png",
+        "b2b-deal-workflow.gif",
+        "trade-dashboard-snapshot.jpg"
+      ],
+      "applications": [
+        "Export procurement planning",
+        "Digital tendering",
+        "Buyer-supplier matchmaking",
+        "Real-time seafood spot trading"
+      ],
+      "metrics": {
+        "avgTimeToContract": "70% faster deal closure",
+        "buyerRetention": "2.3x repeat transactions",
+        "traceableListings": "100% verified supply",
+        "disputeReduction": "Less than 0.5% post-trade conflict"
+      },
+      "datasets": [
+        {
+          "name": "Trade Listings Snapshot",
+          "link": "/datasets/b2b/listings-q1-2025.json"
+        },
+        {
+          "name": "Verified Supplier Registry",
+          "link": "/datasets/b2b/supplier-verification.xlsx"
+        }
+      ],
+      "publications": [
+        {
+          "title": "Digital Markets for Sustainable Fisheries",
+          "authors": ["R. Nayak", "D. Subramaniam"],
+          "year": 2024,
+          "link": "https://doi.org/10.1109/maritech.marketplaces"
+        },
+        {
+          "title": "Blockchain in B2B Seafood Trade",
+          "authors": ["K. Das"],
+          "year": 2023,
+          "link": "https://journal.aquachain.org/article/aazhimin-b2b"
+        }
+      ]
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        
+  ]
+}
