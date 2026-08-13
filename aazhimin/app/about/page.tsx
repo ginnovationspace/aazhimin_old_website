@@ -181,14 +181,14 @@ export default function AboutPage() {
             </motion.h2>
             <div className="grid sm:grid-cols-2 md:grid-cols-4 gap-10">
               {[
-                // {
-                //   name: 'Arunkumar Ayyakannu',
-                //   role: 'CEO and Director',
-                //   img: '/Assets/images/team/arun.jpeg',
-                //   website: 'https://arun.yazhvin.com/',
-                //   description:
-                //     "Drives Aazhimin's vision and strategic direction, pioneering breakthroughs in AI, autonomous technologies, and maritime innovation.",
-                // },
+                {
+                  name: 'Arunkumar Ayyakannu',
+                  role: 'CEO / CTO and Director',
+                  img: '/Assets/images/team/arun.jpeg',
+                  website: 'https://arun.yazhvin.com/',
+                  description:
+                    "Drives Aazhimin's vision and strategic direction, pioneering breakthroughs in AI, autonomous technologies, and maritime innovation.",
+                },
                 {
                   name: 'Dynisious Frame Royappan',
                   role: 'Director',
